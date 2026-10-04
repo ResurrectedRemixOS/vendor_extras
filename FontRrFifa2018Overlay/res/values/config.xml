@@ -1,0 +1,6 @@
+<resources>
+    <string name="config_bodyFontFamily" translatable="false">fifa2018</string>
+    <string name="config_bodyFontFamilyMedium" translatable="false">fifa2018-semi-bold</string>
+    <string name="config_headlineFontFamily" translatable="false">fifa2018-medium</string>
+    <string name="config_headlineFontFamilyMedium" translatable="false">fifa2018-bold</string>
+</resources>

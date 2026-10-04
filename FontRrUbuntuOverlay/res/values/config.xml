@@ -1,0 +1,6 @@
+<resources>
+    <string name="config_bodyFontFamily" translatable="false">ubuntu</string>
+    <string name="config_bodyFontFamilyMedium" translatable="false">ubuntu-semi-bold</string>
+    <string name="config_headlineFontFamily" translatable="false">ubuntu-medium</string>
+    <string name="config_headlineFontFamilyMedium" translatable="false">ubuntu-bold</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="config_bodyFontFamily" translatable="false">rosemary</string>
+    <string name="config_bodyFontFamilyMedium" translatable="false">rosemary-semi-bold</string>
+    <string name="config_headlineFontFamily" translatable="false">rosemary</string>
+    <string name="config_headlineFontFamilyMedium" translatable="false">rosemary-bold</string>
+</resources>

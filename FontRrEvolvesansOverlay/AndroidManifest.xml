@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.resurrection.theme.font.evolvesans"
+    android:versionCode="1"
+    android:versionName="1.0">
+    <overlay
+        android:targetPackage="android"
+        android:category="android.theme.customization.font"
+        android:priority="1" />
+    <application android:label="@string/font_label" android:hasCode="false">
+        <meta-data
+            android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
+            android:value="evolvesans,evolvesans-medium,evolvesans-semi-bold,evolvesans-bold" />
+    </application>
+</manifest>

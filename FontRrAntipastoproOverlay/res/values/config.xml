@@ -1,0 +1,6 @@
+<resources>
+    <string name="config_bodyFontFamily" translatable="false">antipastopro</string>
+    <string name="config_bodyFontFamilyMedium" translatable="false">antipastopro-semi-bold</string>
+    <string name="config_headlineFontFamily" translatable="false">antipastopro-medium</string>
+    <string name="config_headlineFontFamilyMedium" translatable="false">antipastopro-bold</string>
+</resources>
