@@ -22,6 +22,7 @@ android_library {
         "-P plugin:androidx.compose.compiler.plugins.kotlin:sourceInformation=true",
     ],
     use_resource_processor: true,
-    
+    platform_apis: true,
+
     visibility: ["//visibility:public"],
 }
