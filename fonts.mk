@@ -1,4 +1,4 @@
-# Resurrection Remix fonts and font overlays.
+# Resurrected Remix fonts and font overlays.
 PRODUCT_PACKAGES += \
     Aclonica.ttf \
     Amarante.ttf \
