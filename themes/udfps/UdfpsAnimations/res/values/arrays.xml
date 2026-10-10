@@ -18,6 +18,7 @@
 
     <string-array translatable="false" name="udfps_animation_styles">
         <item>none</item>
+        <item>rr_remix</item>
         <item>bloom</item>
         <item>cyber</item>
         <item>electronic</item>
@@ -61,6 +62,7 @@
 
     <string-array translatable="false" name="udfps_animation_previews">
         <item>none_anim_1</item>
+        <item>rr_remix_anim_12</item>
         <item>bloom_anim_14</item>
         <item>cyber_anim_9</item>
         <item>electronic_anim_7</item>
@@ -104,6 +106,7 @@
 
     <string-array translatable="false" name="udfps_animation_titles">
         <item>None</item>
+        <item>Remix</item>
         <item>Bloom</item>
         <item>Cyber</item>
         <item>Electronic</item>
