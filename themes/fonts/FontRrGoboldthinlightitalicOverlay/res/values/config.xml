@@ -1,0 +1,6 @@
+<resources>
+    <string name="config_bodyFontFamily" translatable="false">goboldthinlightitalic</string>
+    <string name="config_bodyFontFamilyMedium" translatable="false">goboldthinlightitalic-semi-bold</string>
+    <string name="config_headlineFontFamily" translatable="false">goboldthinlightitalic-medium</string>
+    <string name="config_headlineFontFamilyMedium" translatable="false">goboldthinlightitalic-bold</string>
+</resources>

@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "FontRrFifa2018Overlay",
+    product_specific: true,
+    sdk_version: "current",
+    theme: "FontRrFifa2018Overlay",
+}

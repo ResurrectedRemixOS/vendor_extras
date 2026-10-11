@@ -1,0 +1,6 @@
+<resources>
+    <string name="config_bodyFontFamily" translatable="false">reemkufi</string>
+    <string name="config_bodyFontFamilyMedium" translatable="false">reemkufi-semi-bold</string>
+    <string name="config_headlineFontFamily" translatable="false">reemkufi-medium</string>
+    <string name="config_headlineFontFamilyMedium" translatable="false">reemkufi-bold</string>
+</resources>
