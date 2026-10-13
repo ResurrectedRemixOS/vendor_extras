@@ -7,11 +7,11 @@
 genrule {
     name: "gen-fonts_customization_rr.xml",
     srcs: [
-        ":fonts_customization.xml",
+        ":lineage_fonts_customization",
         "fonts_customization_rr.xml",
     ],
     out: ["fonts_customization.xml"],
-    cmd: "sed '/<\\/fonts-modification>/d' $(location :fonts_customization.xml) > $(out) && " +
+    cmd: "sed '/<\\/fonts-modification>/d' $(location :lineage_fonts_customization) > $(out) && " +
         "cat $(location fonts_customization_rr.xml) >> $(out) && " +
         "echo '</fonts-modification>' >> $(out)",
 }
