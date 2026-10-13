@@ -1,0 +1,24 @@
+//
+// SPDX-FileCopyrightText: The Resurrected Remix Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+// Lineage's font list with the RR families added, installed in its place.
+genrule {
+    name: "gen-fonts_customization_rr.xml",
+    srcs: [
+        ":fonts_customization.xml",
+        "fonts_customization_rr.xml",
+    ],
+    out: ["fonts_customization.xml"],
+    cmd: "sed '/<\\/fonts-modification>/d' $(location :fonts_customization.xml) > $(out) && " +
+        "cat $(location fonts_customization_rr.xml) >> $(out) && " +
+        "echo '</fonts-modification>' >> $(out)",
+}
+
+prebuilt_etc {
+    name: "fonts_customization_rr.xml",
+    src: ":gen-fonts_customization_rr.xml",
+    filename: "fonts_customization.xml",
+    product_specific: true,
+}

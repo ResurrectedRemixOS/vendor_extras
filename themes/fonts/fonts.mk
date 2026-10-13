@@ -1,5 +1,6 @@
 # Resurrected Remix fonts and font overlays.
 PRODUCT_PACKAGES += \
+    fonts_customization_rr.xml \
     Aclonica.ttf \
     Amarante.ttf \
     AntipastoPro.ttf \
