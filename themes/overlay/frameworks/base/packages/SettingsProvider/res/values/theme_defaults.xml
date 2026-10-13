@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The Resurrected Remix Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- Start on the Resurrected accent preset (Remixer). -->
+    <string name="def_theme_customization_overlay_packages" translatable="false">{\"android.theme.customization.system_palette\":\"E02437\",\"android.theme.customization.accent_color\":\"E02437\",\"android.theme.customization.color_source\":\"preset\",\"android.theme.customization.theme_style\":\"CONTENT\",\"android.theme.customization.color_index\":\"1\",\"android.theme.customization.color_both\":\"1\"}</string>
+</resources>
