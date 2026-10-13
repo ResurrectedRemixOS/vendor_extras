@@ -118,8 +118,13 @@ public class LivingCrimsonService extends WallpaperService {
                 if (b >= 1f) mBloomAt = -1;
             }
             // With the lock screen charging glow on, the glow does the charging effect.
-            boolean glow = android.provider.Settings.System.getInt(getContentResolver(),
-                    "charging_glow", 1) == 1;
+            boolean glow = true;
+            try {
+                glow = android.provider.Settings.System.getInt(getContentResolver(),
+                        "charging_glow", 1) == 1;
+            } catch (RuntimeException e) {
+                // Not readable here; assume the glow handles charging.
+            }
             float charge = prefs.getBoolean(KEY_CHARGING, true) && mCharging && !glow ? 1f : 0f;
             SurfaceHolder holder = getSurfaceHolder();
             Canvas canvas = null;
