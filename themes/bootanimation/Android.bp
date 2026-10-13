@@ -5,9 +5,11 @@
 
 // Boot animation styles; BootAnimation.cpp and Remixer's picker list them by index.
 
+// Crimson glow is the default, in place of Lineage's.
 prebuilt_media {
     name: "bootanimation_rr_glow.zip",
     src: "prebuilts/bootanimation_rr_glow.zip",
+    filename: "bootanimation.zip",
     product_specific: true,
 }
 
