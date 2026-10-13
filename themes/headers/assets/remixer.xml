@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2026 The Resurrected Remix Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<daylight_headers>
+    <hour_header hour="0" image="rr_daylight_night" />
+    <hour_header hour="5" image="rr_daylight_dawn" />
+    <hour_header hour="8" image="rr_daylight_morning" />
+    <hour_header hour="11" image="rr_daylight_noon" />
+    <hour_header hour="14" image="rr_daylight_afternoon" />
+    <hour_header hour="17" image="rr_daylight_sunset" />
+    <hour_header hour="19" image="rr_daylight_dusk" />
+    <hour_header hour="21" image="rr_daylight_late" />
+</daylight_headers>
