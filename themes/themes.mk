@@ -4,6 +4,7 @@ $(call inherit-product, vendor/extras/themes/fonts/fonts.mk)
 $(call inherit-product, vendor/extras/themes/bootanimation/bootanimation.mk)
 
 PRODUCT_PACKAGES += \
+    LivingCrimson \
     OmniStyle \
     RRWallpapers
 
