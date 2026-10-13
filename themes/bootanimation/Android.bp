@@ -1,0 +1,66 @@
+//
+// SPDX-FileCopyrightText: The Resurrected Remix Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+// Boot animation styles; BootAnimation.cpp and Remixer's picker list them by index.
+
+prebuilt_media {
+    name: "bootanimation_rr_glow.zip",
+    src: "prebuilts/bootanimation_rr_glow.zip",
+    product_specific: true,
+}
+
+prebuilt_media {
+    name: "bootanimation_rr_neon.zip",
+    src: "prebuilts/bootanimation_rr_neon.zip",
+    product_specific: true,
+}
+
+prebuilt_media {
+    name: "bootanimation_rr_glitch.zip",
+    src: "prebuilts/bootanimation_rr_glitch.zip",
+    product_specific: true,
+}
+
+prebuilt_media {
+    name: "bootanimation_rr_lockup.zip",
+    src: "prebuilts/bootanimation_rr_lockup.zip",
+    product_specific: true,
+}
+
+prebuilt_media {
+    name: "bootanimation_rr.zip",
+    src: "prebuilts/bootanimation_rr.zip",
+    product_specific: true,
+}
+
+prebuilt_media {
+    name: "bootanimation_aokp.zip",
+    src: "prebuilts/bootanimation_aokp.zip",
+    product_specific: true,
+}
+
+prebuilt_media {
+    name: "bootanimation_cm.zip",
+    src: "prebuilts/bootanimation_cm.zip",
+    product_specific: true,
+}
+
+prebuilt_media {
+    name: "bootanimation_du.zip",
+    src: "prebuilts/bootanimation_du.zip",
+    product_specific: true,
+}
+
+prebuilt_media {
+    name: "bootanimation_pac.zip",
+    src: "prebuilts/bootanimation_pac.zip",
+    product_specific: true,
+}
+
+prebuilt_media {
+    name: "bootanimation_slim.zip",
+    src: "prebuilts/bootanimation_slim.zip",
+    product_specific: true,
+}
