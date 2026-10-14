@@ -8,7 +8,10 @@ import android.app.Activity;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.widget.LinearLayout;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
 import android.widget.Switch;
+import android.widget.TextView;
 
 /** Living crimson options. */
 public class SettingsActivity extends Activity {
@@ -20,11 +23,29 @@ public class SettingsActivity extends Activity {
         list.setOrientation(LinearLayout.VERTICAL);
         int pad = Math.round(24 * getResources().getDisplayMetrics().density);
         list.setPadding(pad, pad, pad, pad);
-        add(list, prefs, LivingCrimsonService.KEY_ACCENT, R.string.color_accent, false);
+        TextView title = new TextView(this);
+        title.setText(R.string.color);
+        title.setTextSize(14);
+        list.addView(title);
+        RadioGroup colors = new RadioGroup(this);
+        int[] labels = {R.string.color_crimson, R.string.color_accent, R.string.color_album};
+        int mode = LivingCrimsonService.colorMode(prefs);
+        for (int i = 0; i < labels.length; i++) {
+            RadioButton button = new RadioButton(this);
+            button.setId(i + 1);
+            button.setText(labels[i]);
+            button.setTextSize(17);
+            colors.addView(button);
+            if (i == mode) button.setChecked(true);
+        }
+        colors.setOnCheckedChangeListener((group, id) ->
+                prefs.edit().putInt(LivingCrimsonService.KEY_COLOR, id - 1).apply());
+        list.addView(colors);
         add(list, prefs, LivingCrimsonService.KEY_MOTION, R.string.motion, true);
         add(list, prefs, LivingCrimsonService.KEY_LIVELY, R.string.motion_lively, false);
         add(list, prefs, LivingCrimsonService.KEY_BLOOM, R.string.bloom, true);
         add(list, prefs, LivingCrimsonService.KEY_CHARGING, R.string.charging, true);
+        add(list, prefs, LivingCrimsonService.KEY_AOD, R.string.aod, true);
         setContentView(list);
     }
 

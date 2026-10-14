@@ -7,7 +7,8 @@ android_app {
     name: "LivingCrimson",
     srcs: ["src/**/*.java"],
     resource_dirs: ["res"],
-    sdk_version: "current",
+    // system_current: the always-on display callback is a system API.
+    sdk_version: "system_current",
     certificate: "platform",
     product_specific: true,
 }

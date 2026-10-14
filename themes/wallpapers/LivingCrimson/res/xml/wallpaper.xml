@@ -3,4 +3,4 @@
     android:description="@string/description"
     android:author="@string/author"
     android:settingsActivity="org.resurrection.livingcrimson.SettingsActivity"
-    android:supportsAmbientMode="false" />
+    android:supportsAmbientMode="true" />

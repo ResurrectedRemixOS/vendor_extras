@@ -3,7 +3,11 @@
     <string name="app_name">Living crimson</string>
     <string name="author">Resurrected Remix</string>
     <string name="description">The RR crimson glow, alive: it drifts, blooms when you unlock and brightens while charging.</string>
-    <string name="color_accent">Follow my accent color</string>
+    <string name="color">Color</string>
+    <string name="color_crimson">RR crimson</string>
+    <string name="color_accent">Accent</string>
+    <string name="color_album">Album art</string>
+    <string name="aod">Show on always-on display</string>
     <string name="motion">Drift</string>
     <string name="motion_lively">Lively drift</string>
     <string name="bloom">Bloom when unlocking</string>
