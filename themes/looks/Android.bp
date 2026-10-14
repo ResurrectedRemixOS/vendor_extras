@@ -1,0 +1,38 @@
+//
+// SPDX-FileCopyrightText: The Resurrected Remix Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+// RR's own Remix Looks; Remixer's Looks page reads /product/etc/rr_looks.
+
+prebuilt_etc {
+    name: "rr_look_crimson_classic",
+    src: "crimson-classic.rrlook",
+    sub_dir: "rr_looks",
+    filename_from_src: true,
+    product_specific: true,
+}
+
+prebuilt_etc {
+    name: "rr_look_neon_night",
+    src: "neon-night.rrlook",
+    sub_dir: "rr_looks",
+    filename_from_src: true,
+    product_specific: true,
+}
+
+prebuilt_etc {
+    name: "rr_look_glass",
+    src: "glass.rrlook",
+    sub_dir: "rr_looks",
+    filename_from_src: true,
+    product_specific: true,
+}
+
+prebuilt_etc {
+    name: "rr_look_mono",
+    src: "mono.rrlook",
+    sub_dir: "rr_looks",
+    filename_from_src: true,
+    product_specific: true,
+}
