@@ -39,4 +39,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="no_network_message">Ağ bağlantısı yok</string>
   <string name="download_wallpaper_list_failed_notice">Duvar kâğıdı dizini yüklenemedi</string>
   <string name="wallpaper_default_name">Duvar kâğıdı</string>
+    <string name="sort_by_default_menu">"Ada göre sırala"</string>
+    <string name="header_location_local">Yerel</string>
+    <string name="header_location_online">Çevrimiçi</string>
 </resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"Тұсқағаздар"</string>
+    <string name="wallpaper_type_dialog_title">"Тұсқағаз орнату"</string>
+    <string name="wallpaper_type_both">"Негізгі экран және құлыпталған экран"</string>
+    <string name="wallpaper_type_system">"Негізгі экран"</string>
+    <string name="wallpaper_type_lock">"Құлыптаулы экран"</string>
+    <string name="scrolling_wall_yes">"Жоқ"</string>
+    <string name="scrolling_wall_no">"Иә"</string>
+    <string name="wallpaper_location_local">"Жергілікті"</string>
+    <string name="wallpaper_default_name">"Тұсқағаз"</string>
+    <string name="sort_by_default_menu">"Атауы бойынша сұрыптау"</string>
+    <string name="header_location_local">"Жергілікті"</string>
+</resources>

@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Achtergronden"</string>
+    <string name="wallpaper_type_dialog_title">"Achtergrond instellen"</string>
+    <string name="wallpaper_type_both">"Startscherm en vergrendelscherm"</string>
+    <string name="wallpaper_type_system">"Startscherm"</string>
+    <string name="wallpaper_type_lock">"Vergrendelscherm"</string>
+    <string name="scrolling_wall_dialog_title">"Achtergrond bijsnijden"</string>
+    <string name="scrolling_wall_yes">"Nee"</string>
+    <string name="scrolling_wall_no">"Ja"</string>
+    <string name="wallpaper_location_local">"Lokaal"</string>
+    <string name="wallpaper_default_name">"Achtergrond"</string>
+    <string name="sort_by_default_menu">"Sorteren op naam"</string>
+    <string name="header_location_local">"Lokaal"</string>
+</resources>

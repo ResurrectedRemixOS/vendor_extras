@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"Fon rasmlari"</string>
+    <string name="wallpaper_type_dialog_title">"Fonga rasm tanlash"</string>
+    <string name="wallpaper_type_both">"Bosh va qulf ekrani"</string>
+    <string name="wallpaper_type_system">"Bosh ekran"</string>
+    <string name="wallpaper_type_lock">"Ekran qulfi"</string>
+    <string name="scrolling_wall_yes">"Yo‘q"</string>
+    <string name="scrolling_wall_no">"Ha"</string>
+    <string name="wallpaper_location_local">"Mahalliy"</string>
+    <string name="wallpaper_default_name">"Fon rasmi"</string>
+    <string name="sort_by_default_menu">"Nomi asosida saralash"</string>
+    <string name="header_location_local">"Mahalliy"</string>
+</resources>

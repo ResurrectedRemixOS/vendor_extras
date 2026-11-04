@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">Tugniwin n ugilal</string>
+    <string name="wallpaper_type_dialog_title">Sbadu agalis</string>
+    <string name="wallpaper_type_both">Agdil agejdan d ugdil n usekker</string>
+    <string name="wallpaper_type_system">Agdil agejdan</string>
+    <string name="wallpaper_type_lock">Agdil usewḥel</string>
+    <string name="scrolling_wall_yes">Uhu</string>
+    <string name="scrolling_wall_no">Ih</string>
+    <string name="wallpaper_location_local">Adigan</string>
+    <string name="wallpaper_default_name">Agalis</string>
+    <string name="sort_by_default_menu">Smizzwer s yisem</string>
+    <string name="header_location_local">Adigan</string>
+</resources>

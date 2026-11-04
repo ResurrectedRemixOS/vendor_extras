@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"Imazhet e sfondit"</string>
+    <string name="wallpaper_type_dialog_title">"Cakto imazhin në sfond"</string>
+    <string name="wallpaper_type_both">"Ekrani bazë dhe ekrani i kyçjes"</string>
+    <string name="wallpaper_type_system">"Ekrani bazë"</string>
+    <string name="wallpaper_type_lock">"Ekrani i kyçjes"</string>
+    <string name="scrolling_wall_yes">"Jo"</string>
+    <string name="scrolling_wall_no">"Po"</string>
+    <string name="wallpaper_location_local">"Lokal"</string>
+    <string name="wallpaper_default_name">"Imazhi i sfondit"</string>
+    <string name="sort_by_default_menu">"Rendit sipas emrit"</string>
+    <string name="header_location_local">"Lokal"</string>
+</resources>

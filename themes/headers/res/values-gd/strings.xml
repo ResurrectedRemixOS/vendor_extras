@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">Pàipearan-balla</string>
+    <string name="wallpaper_type_dialog_title">Suidhich pàipear-balla</string>
+    <string name="wallpaper_type_both">An sgrìn dachaigh ’s an sgrìn-ghlasaidh</string>
+    <string name="wallpaper_type_system">An sgrìn dachaigh</string>
+    <string name="wallpaper_type_lock">An sgrìn-ghlasaidh</string>
+    <string name="scrolling_wall_dialog_title">Beàrr am pàipear-balla</string>
+    <string name="scrolling_wall_yes">Chan eil</string>
+    <string name="scrolling_wall_no">Tha</string>
+    <string name="wallpaper_location_local">Ionadail</string>
+    <string name="wallpaper_default_name">Pàipear-balla</string>
+    <string name="sort_by_default_menu">Seòrsaich a-rèir ainm</string>
+    <string name="header_location_local">Ionadail</string>
+</resources>

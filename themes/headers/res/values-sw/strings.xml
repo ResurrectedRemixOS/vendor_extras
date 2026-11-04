@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Mandhari"</string>
+    <string name="wallpaper_type_dialog_title">"Weka mandhari"</string>
+    <string name="wallpaper_type_both">"Skrini ya kwanza na skrini iliyofungwa"</string>
+    <string name="wallpaper_type_system">"Skrini ya kwanza"</string>
+    <string name="wallpaper_type_lock">"Skrini iliyofungwa"</string>
+    <string name="scrolling_wall_dialog_title">"Punguza mandhari"</string>
+    <string name="scrolling_wall_yes">"Hapana"</string>
+    <string name="scrolling_wall_no">"Ndiyo"</string>
+    <string name="wallpaper_location_local">"Ya nchini"</string>
+    <string name="wallpaper_default_name">"Mandhari"</string>
+    <string name="sort_by_default_menu">"Panga kwa jina"</string>
+    <string name="header_location_local">"Ya nchini"</string>
+</resources>

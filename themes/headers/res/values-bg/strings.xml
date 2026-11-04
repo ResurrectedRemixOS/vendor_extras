@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Тапети"</string>
+    <string name="wallpaper_type_dialog_title">"Задаване на тапет"</string>
+    <string name="wallpaper_type_both">"Начален и заключен екран"</string>
+    <string name="wallpaper_type_system">"Начален екран"</string>
+    <string name="wallpaper_type_lock">"Заключен екран"</string>
+    <string name="scrolling_wall_dialog_title">"Подрязване на тапета"</string>
+    <string name="scrolling_wall_yes">"Не"</string>
+    <string name="scrolling_wall_no">"Да"</string>
+    <string name="wallpaper_location_local">"В района"</string>
+    <string name="wallpaper_default_name">"Тапет"</string>
+    <string name="sort_by_default_menu">"Сортиране по име"</string>
+    <string name="header_location_local">"В района"</string>
+</resources>

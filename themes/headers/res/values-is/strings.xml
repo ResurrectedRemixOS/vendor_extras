@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"Veggfóður"</string>
+    <string name="wallpaper_type_dialog_title">"Velja veggfóður"</string>
+    <string name="wallpaper_type_both">"Heimaskjár og lásskjár"</string>
+    <string name="wallpaper_type_system">"Heimaskjár"</string>
+    <string name="wallpaper_type_lock">"Lásskjár"</string>
+    <string name="scrolling_wall_yes">"Nei"</string>
+    <string name="scrolling_wall_no">"Já"</string>
+    <string name="wallpaper_location_local">"Staðbundið"</string>
+    <string name="wallpaper_default_name">"Veggfóður"</string>
+    <string name="sort_by_default_menu">"Raða eftir nafni"</string>
+    <string name="header_location_local">"Staðbundið"</string>
+</resources>

@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"ფონები"</string>
+    <string name="wallpaper_type_dialog_title">"ფონის დაყენება"</string>
+    <string name="wallpaper_type_both">"მთავარი ეკრანი და ჩაკეტილი ეკრანი"</string>
+    <string name="wallpaper_type_system">"მთავარი ეკრანი"</string>
+    <string name="wallpaper_type_lock">"ჩაკეტილი ეკრანი"</string>
+    <string name="scrolling_wall_dialog_title">"ფონის ჩამოჭრა"</string>
+    <string name="scrolling_wall_yes">"არა"</string>
+    <string name="scrolling_wall_no">"დიახ"</string>
+    <string name="wallpaper_location_local">"ადგილობრივი"</string>
+    <string name="wallpaper_default_name">"ფონი"</string>
+    <string name="sort_by_default_menu">"სორტირება სახელის მიხედვით"</string>
+    <string name="header_location_local">"ადგილობრივი"</string>
+</resources>

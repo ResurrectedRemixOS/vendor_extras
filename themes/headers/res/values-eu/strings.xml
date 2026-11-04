@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"Horma-paperak"</string>
+    <string name="wallpaper_type_dialog_title">"Ezarri horma-papera"</string>
+    <string name="wallpaper_type_both">"Orri nagusia eta pantaila blokeatua"</string>
+    <string name="wallpaper_type_system">"Orri nagusia"</string>
+    <string name="wallpaper_type_lock">"Pantaila blokeatua"</string>
+    <string name="scrolling_wall_yes">"Ez"</string>
+    <string name="scrolling_wall_no">"Bai"</string>
+    <string name="wallpaper_location_local">"Tokikoa"</string>
+    <string name="wallpaper_default_name">"Horma-papera"</string>
+    <string name="sort_by_default_menu">"Ordenatu izenaren arabera"</string>
+    <string name="header_location_local">"Tokikoa"</string>
+</resources>

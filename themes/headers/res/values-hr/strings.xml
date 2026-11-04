@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Pozadine"</string>
+    <string name="wallpaper_type_dialog_title">"Postavi pozadinu"</string>
+    <string name="wallpaper_type_both">"Početni zaslon i zaključani zaslon"</string>
+    <string name="wallpaper_type_system">"Početni zaslon"</string>
+    <string name="wallpaper_type_lock">"Zaključani zaslon"</string>
+    <string name="scrolling_wall_dialog_title">"Obrezivanje pozadinske slike"</string>
+    <string name="scrolling_wall_yes">"Ne"</string>
+    <string name="scrolling_wall_no">"Da"</string>
+    <string name="wallpaper_location_local">"Lokalno"</string>
+    <string name="wallpaper_default_name">"Pozadina"</string>
+    <string name="sort_by_default_menu">"Poredaj prema nazivu"</string>
+    <string name="header_location_local">"Lokalno"</string>
+</resources>

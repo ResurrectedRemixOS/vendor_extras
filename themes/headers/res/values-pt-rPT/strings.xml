@@ -39,4 +39,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="no_network_message">Sem rede</string>
   <string name="download_wallpaper_list_failed_notice">Erro ao carregar o papel de parede do pasta</string>
   <string name="wallpaper_default_name">Papel de parede</string>
+    <string name="sort_by_default_menu">"Ordenar pelo nome"</string>
 </resources>

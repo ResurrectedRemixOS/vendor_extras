@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"वॉलपेपर"</string>
+    <string name="wallpaper_type_dialog_title">"वॉलपेपर सेट करा"</string>
+    <string name="wallpaper_type_both">"होम स्क्रीन आणि लॉक स्क्रीन"</string>
+    <string name="wallpaper_type_system">"होम स्क्रीन"</string>
+    <string name="wallpaper_type_lock">"लॉक स्क्रीन"</string>
+    <string name="scrolling_wall_yes">"नाही"</string>
+    <string name="scrolling_wall_no">"होय"</string>
+    <string name="wallpaper_location_local">"स्थानिक"</string>
+    <string name="wallpaper_default_name">"वॉलपेपर"</string>
+    <string name="sort_by_default_menu">"नावानुसार क्रमवारी लावा"</string>
+    <string name="header_location_local">"स्थानिक"</string>
+</resources>

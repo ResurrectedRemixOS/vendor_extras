@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"ልጣፎች"</string>
+    <string name="wallpaper_type_dialog_title">"ልጣፍ አዘጋጅ"</string>
+    <string name="wallpaper_type_both">"መነሻ ገፅ እና ማያ ገፅ ቁልፍ"</string>
+    <string name="wallpaper_type_system">"መነሻ ገፅ"</string>
+    <string name="wallpaper_type_lock">"ማያ ገጽ ቁልፍ"</string>
+    <string name="scrolling_wall_dialog_title">"የግድግዳ ወረቀት ይከርክሙ"</string>
+    <string name="scrolling_wall_yes">"አይ"</string>
+    <string name="scrolling_wall_no">"አዎ"</string>
+    <string name="wallpaper_location_local">"የአገር ውስጥ"</string>
+    <string name="wallpaper_default_name">"ልጣፍ"</string>
+    <string name="sort_by_default_menu">"በስም ለይ"</string>
+    <string name="header_location_local">"የአገር ውስጥ"</string>
+</resources>

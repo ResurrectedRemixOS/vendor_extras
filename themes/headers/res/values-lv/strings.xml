@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Fona tapetes"</string>
+    <string name="wallpaper_type_dialog_title">"Iestatīt fona tapeti"</string>
+    <string name="wallpaper_type_both">"Sākuma ekrāns un bloķēšanas ekrāns"</string>
+    <string name="wallpaper_type_system">"Sākuma ekrāns"</string>
+    <string name="wallpaper_type_lock">"Bloķēšanas ekrāns"</string>
+    <string name="scrolling_wall_dialog_title">"Apgriezt fona tapeti"</string>
+    <string name="scrolling_wall_yes">"Nē"</string>
+    <string name="scrolling_wall_no">"Jā"</string>
+    <string name="wallpaper_location_local">"Vietējās"</string>
+    <string name="wallpaper_default_name">"Fona tapete"</string>
+    <string name="sort_by_default_menu">"Kārtot pēc nosaukuma"</string>
+    <string name="header_location_local">"Vietējās"</string>
+</resources>

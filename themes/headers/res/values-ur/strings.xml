@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"وال پیپرز"</string>
+    <string name="wallpaper_type_dialog_title">"وال پیپر سیٹ کریں"</string>
+    <string name="wallpaper_type_both">"ہوم اسکرین اور مقفل اسکرین"</string>
+    <string name="wallpaper_type_system">"ہوم اسکرین"</string>
+    <string name="wallpaper_type_lock">"مقفل اسکرین"</string>
+    <string name="scrolling_wall_yes">"نہیں"</string>
+    <string name="scrolling_wall_no">"ہاں"</string>
+    <string name="wallpaper_location_local">"مقامی"</string>
+    <string name="wallpaper_default_name">"وال پیپر"</string>
+    <string name="sort_by_default_menu">"نام کے لحاظ سے ترتیب دیں"</string>
+    <string name="header_location_local">"مقامی"</string>
+</resources>

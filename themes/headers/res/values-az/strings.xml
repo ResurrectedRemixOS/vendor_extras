@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_header">Mövzular</string>
+    <string name="custom_header_image_notice">Mövzü şəkli təyin et</string>
+    <string name="browse_walls">"Divar kağızları"</string>
+    <string name="omni_walls">Omni</string>
+    <string name="wallpaper_type_dialog_title">"Divar kağızı seçin"</string>
+    <string name="wallpaper_type_both">"Əsas ekran və kilid ekranı"</string>
+    <string name="wallpaper_type_system">"Əsas ekran"</string>
+    <string name="wallpaper_type_lock">"Ekran kilidi"</string>
+    <string name="header_creator_label">Yaradıcı\u003a </string>
+    <string name="no_crop_activity_dialog_text">Divar kağızı təyin etmək üçün Omni Qaleriya tətbiqi lazımdır</string>
+    <string name="no_crop_activity_dialog_title">Qaleriya yoxdur</string>
+    <string name="scrolling_wall_dialog_text">Divar kağızını ekranın ölçüsünə görə kəsmək istəyirsinizmi?\u003f</string>
+    <string name="scrolling_wall_dialog_title">Divar kağızını qırp</string>
+    <string name="scrolling_wall_yes">"Xeyr"</string>
+    <string name="scrolling_wall_no">"Bəli"</string>
+    <string name="wallpaper_location_local">"Yerli"</string>
+    <string name="wallpaper_location_remote">Onlayn</string>
+    <string name="download_wallpaper_notice">Divar kağızı yüklənir</string>
+    <string name="download_wallpaper_failed_notice">Divar kağızı yüklənərkən xəta baş verdi</string>
+    <string name="no_network_message">Şəbəkə bağlantısı yoxdur</string>
+    <string name="download_wallpaper_list_failed_notice">Divar kağızı direktivini yükləmək alınmadı</string>
+    <string name="wallpaper_default_name">"Divar kağızı"</string>
+    <string name="sort_by_default_menu">"Ad üzrə sırala"</string>
+    <string name="header_location_local">"Yerli"</string>
+    <string name="header_location_online">Onlayn</string>
+</resources>

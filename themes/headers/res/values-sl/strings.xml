@@ -38,4 +38,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="download_wallpaper_failed_notice">Prejemanje slike ozadja je spodletelo</string>
   <string name="no_network_message">Ni omrežne povezave</string>
   <string name="download_wallpaper_list_failed_notice">Nalaganje mape slike ozadja je spodletelo</string>
+    <string name="wallpaper_default_name">"Ozadje"</string>
+    <string name="sort_by_default_menu">"Razvrsti po imenu"</string>
+    <string name="header_location_local">"Lokalno"</string>
+    <string name="header_location_online">Na spletu</string>
 </resources>

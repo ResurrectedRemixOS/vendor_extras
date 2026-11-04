@@ -29,4 +29,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="scrolling_wall_yes">아니오</string>
   <string name="scrolling_wall_no">예</string>
   <string name="wallpaper_default_name">배경화면</string>
+    <string name="wallpaper_type_both">"홈 화면 및 잠금 화면"</string>
+    <string name="wallpaper_type_system">"홈 화면"</string>
+    <string name="wallpaper_type_lock">"잠금 화면"</string>
+    <string name="wallpaper_location_local">"지역"</string>
+    <string name="sort_by_default_menu">"이름순 정렬"</string>
+    <string name="header_location_local">"지역"</string>
 </resources>

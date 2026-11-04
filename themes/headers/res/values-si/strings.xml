@@ -16,4 +16,16 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"වෝල්පේපර"</string>
+    <string name="wallpaper_type_dialog_title">"වෝල්පේපරය සකසන්න"</string>
+    <string name="wallpaper_type_both">"මුල් පිටු තිරය සහ අගුලු තිරය"</string>
+    <string name="wallpaper_type_system">"මුල් පිටු තිරය"</string>
+    <string name="wallpaper_type_lock">"අගුලු තිරය"</string>
+    <string name="scrolling_wall_yes">"නැත"</string>
+    <string name="scrolling_wall_no">"ඔව්"</string>
+    <string name="wallpaper_location_local">"දේශීය"</string>
+    <string name="wallpaper_default_name">"වෝල්පේපරය"</string>
+    <string name="sort_by_default_menu">"නමින් අනුපිළිවෙලට සකසන්න"</string>
+    <string name="header_location_local">"දේශීය"</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"வால்பேப்பர்கள்"</string>
+    <string name="wallpaper_type_dialog_title">"வால்பேப்பரை அமை"</string>
+    <string name="wallpaper_type_both">"முகப்புத் திரையும் லாக் ஸ்கிரீனும்"</string>
+    <string name="wallpaper_type_system">"முகப்புத் திரை"</string>
+    <string name="wallpaper_type_lock">"பூட்டுத் திரை"</string>
+    <string name="scrolling_wall_yes">"இல்லை"</string>
+    <string name="scrolling_wall_no">"ஆம்"</string>
+    <string name="wallpaper_location_local">"உள்ளூர்"</string>
+    <string name="wallpaper_default_name">"வால்பேப்பர்"</string>
+    <string name="sort_by_default_menu">"பெயரின்படி வரிசைப்படுத்து"</string>
+    <string name="header_location_local">"உள்ளூர்"</string>
+</resources>

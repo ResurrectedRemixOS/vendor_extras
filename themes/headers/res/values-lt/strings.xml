@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Ekrano fonai"</string>
+    <string name="wallpaper_type_dialog_title">"Nustatyti ekrano foną"</string>
+    <string name="wallpaper_type_both">"Pagrindinis ekranas ir užrakinimo ekranas"</string>
+    <string name="wallpaper_type_system">"Pagrindinis ekranas"</string>
+    <string name="wallpaper_type_lock">"Užrakinimo ekranas"</string>
+    <string name="scrolling_wall_dialog_title">"Apkirpti ekrano foną"</string>
+    <string name="scrolling_wall_yes">"Ne"</string>
+    <string name="scrolling_wall_no">"Taip"</string>
+    <string name="wallpaper_location_local">"Vietinis"</string>
+    <string name="wallpaper_default_name">"Ekrano fonas"</string>
+    <string name="sort_by_default_menu">"Rūšiuoti pagal pavadinimą"</string>
+    <string name="header_location_local">"Vietinis"</string>
+</resources>

@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Izithombe zangemuva"</string>
+    <string name="wallpaper_type_dialog_title">"Setha isithombe sangemuva"</string>
+    <string name="wallpaper_type_both">"Isikrini sasekhaya nokukhiya isikrini"</string>
+    <string name="wallpaper_type_system">"Isikrini sasekhaya"</string>
+    <string name="wallpaper_type_lock">"Khiya isikrini"</string>
+    <string name="scrolling_wall_dialog_title">"Nqampuna isithombe sangemuva"</string>
+    <string name="scrolling_wall_yes">"Cha"</string>
+    <string name="scrolling_wall_no">"Yebo"</string>
+    <string name="wallpaper_location_local">"Endaweni"</string>
+    <string name="wallpaper_default_name">"Isithombe sangemuva"</string>
+    <string name="sort_by_default_menu">"Hlunga ngegama"</string>
+    <string name="header_location_local">"Endaweni"</string>
+</resources>

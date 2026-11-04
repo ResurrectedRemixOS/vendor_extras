@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Дэлгэцийн зураг"</string>
+    <string name="wallpaper_type_dialog_title">"Дэлгэцийн зургийг тохируулах"</string>
+    <string name="wallpaper_type_both">"Нүүр хуудас болон түгжигдсэн дэлгэц"</string>
+    <string name="wallpaper_type_system">"Үндсэн нүүр"</string>
+    <string name="wallpaper_type_lock">"Түгжээтэй дэлгэц"</string>
+    <string name="scrolling_wall_dialog_title">"Ханын зургийг тайрах"</string>
+    <string name="scrolling_wall_yes">"Үгүй"</string>
+    <string name="scrolling_wall_no">"Тийм"</string>
+    <string name="wallpaper_location_local">"Орон нутгийн"</string>
+    <string name="wallpaper_default_name">"Дэлгэцийн зураг"</string>
+    <string name="sort_by_default_menu">"Нэрээр эрэмбэлэх"</string>
+    <string name="header_location_local">"Орон нутгийн"</string>
+</resources>

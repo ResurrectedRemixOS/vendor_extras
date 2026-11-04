@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"Шпалеры"</string>
+    <string name="wallpaper_type_dialog_title">"Задаць шпалеры"</string>
+    <string name="wallpaper_type_both">"Галоўны экран і экран блакіроўкі"</string>
+    <string name="wallpaper_type_system">"Галоўны экран"</string>
+    <string name="wallpaper_type_lock">"Экран блакіроўкі"</string>
+    <string name="scrolling_wall_yes">"Не"</string>
+    <string name="scrolling_wall_no">"Так"</string>
+    <string name="wallpaper_location_local">"Мясцовы"</string>
+    <string name="wallpaper_default_name">"Шпалеры"</string>
+    <string name="sort_by_default_menu">"Сартаваць па імені"</string>
+    <string name="header_location_local">"Мясцовы"</string>
+</resources>

@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"الخلفيات"</string>
+    <string name="wallpaper_type_dialog_title">"ضبط الخلفية"</string>
+    <string name="wallpaper_type_both">"الشاشة الرئيسية وشاشة القفل"</string>
+    <string name="wallpaper_type_system">"الشاشة الرئيسية"</string>
+    <string name="wallpaper_type_lock">"شاشة القفل"</string>
+    <string name="scrolling_wall_dialog_title">"اقتصاص الخلفية"</string>
+    <string name="scrolling_wall_yes">"لا"</string>
+    <string name="scrolling_wall_no">"نعم"</string>
+    <string name="wallpaper_location_local">"محلي"</string>
+    <string name="wallpaper_default_name">"الخلفية"</string>
+    <string name="sort_by_default_menu">"ترتيب حسب الاسم"</string>
+    <string name="header_location_local">"محلي"</string>
+</resources>

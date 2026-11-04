@@ -16,4 +16,15 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Imagini de fundal"</string>
+    <string name="wallpaper_type_dialog_title">"Setează fundal"</string>
+    <string name="wallpaper_type_both">"Ecranul de pornire și ecranul de blocare"</string>
+    <string name="wallpaper_type_system">"Ecran de pornire"</string>
+    <string name="wallpaper_type_lock">"Ecran de blocare"</string>
+    <string name="scrolling_wall_dialog_title">"Decupați imaginea de fundal"</string>
+    <string name="scrolling_wall_yes">"Nu"</string>
+    <string name="scrolling_wall_no">"Da"</string>
+    <string name="wallpaper_default_name">"Imagine de fundal"</string>
+    <string name="sort_by_default_menu">"Sortează după nume"</string>
+</resources>

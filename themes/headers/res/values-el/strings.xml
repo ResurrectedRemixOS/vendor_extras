@@ -32,4 +32,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="no_network_message">Καμία σύνδεση δικτύου</string>
   <string name="download_wallpaper_list_failed_notice">Η φόρτωση κατάλογου της ταπετσαρίας απέτυχε</string>
   <string name="wallpaper_default_name">Ταπετσαρία</string>
+    <string name="scrolling_wall_dialog_title">"Περικοπή ταπετσαρίας"</string>
+    <string name="scrolling_wall_yes">"Όχι"</string>
+    <string name="scrolling_wall_no">"Ναι"</string>
+    <string name="sort_by_default_menu">"Ταξινόμηση κατά όνομα"</string>
+    <string name="header_location_local">"Τοπικά"</string>
+    <string name="header_location_online">Σε σύνδεση</string>
 </resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">Bakgrunnsbilete</string>
+    <string name="wallpaper_type_dialog_title">Vel bakgrunnsbilete</string>
+    <string name="wallpaper_type_both">Startskjerm og låseskjerm</string>
+    <string name="wallpaper_type_system">Startskjerm</string>
+    <string name="wallpaper_type_lock">Låseskjerm</string>
+    <string name="scrolling_wall_dialog_title">Skjer til bakgrunnsbilete</string>
+    <string name="scrolling_wall_yes">Nei</string>
+    <string name="scrolling_wall_no">Ja</string>
+    <string name="wallpaper_location_local">Lokal</string>
+    <string name="wallpaper_default_name">Bakgrunnsbilete</string>
+    <string name="sort_by_default_menu">Sorter etter namn</string>
+    <string name="header_location_local">Lokal</string>
+</resources>

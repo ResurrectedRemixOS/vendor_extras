@@ -16,4 +16,14 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Fons de pantalla"</string>
+    <string name="wallpaper_type_dialog_title">"Estableix el fons de pantalla"</string>
+    <string name="wallpaper_type_both">"Pantalla d\'inici i pantalla de bloqueig"</string>
+    <string name="wallpaper_type_system">"Pantalla d\'inici"</string>
+    <string name="wallpaper_type_lock">"Pantalla de bloqueig"</string>
+    <string name="scrolling_wall_dialog_title">"Retallar fons de pantalla"</string>
+    <string name="scrolling_wall_no">"Sí"</string>
+    <string name="wallpaper_default_name">"Fons de pantalla"</string>
+    <string name="sort_by_default_menu">"Ordena per nom"</string>
+</resources>

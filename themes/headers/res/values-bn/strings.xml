@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"ওয়ালপেপার"</string>
+    <string name="wallpaper_type_dialog_title">"ওয়ালপেপার সেট করুন"</string>
+    <string name="wallpaper_type_both">"হোম স্ক্রিন ও লক স্ক্রিন"</string>
+    <string name="wallpaper_type_system">"হোম স্ক্রিন"</string>
+    <string name="wallpaper_type_lock">"লক স্ক্রিন"</string>
+    <string name="scrolling_wall_yes">"না"</string>
+    <string name="scrolling_wall_no">"হ্যাঁ"</string>
+    <string name="wallpaper_location_local">"স্থানীয়"</string>
+    <string name="wallpaper_default_name">"ওয়ালপেপার"</string>
+    <string name="sort_by_default_menu">"নাম অনুসারে সাজান"</string>
+    <string name="header_location_local">"স্থানীয়"</string>
+</resources>

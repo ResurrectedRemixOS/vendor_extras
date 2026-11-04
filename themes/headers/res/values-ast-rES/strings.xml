@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">Fondos de pantalla</string>
+    <string name="wallpaper_type_dialog_title">Afitar el fondu de pantalla</string>
+    <string name="wallpaper_type_both">Pantalla d\'aniciu y de bloquéu</string>
+    <string name="wallpaper_type_system">Pantalla d\'aniciu</string>
+    <string name="wallpaper_type_lock">Pantalla de bloquéu</string>
+    <string name="scrolling_wall_dialog_title">Recortar el fondu de pantalla</string>
+    <string name="scrolling_wall_yes">Non</string>
+    <string name="scrolling_wall_no">Sí</string>
+    <string name="wallpaper_default_name">Fondu de pantalla</string>
+    <string name="sort_by_default_menu">Ordenar pol nome</string>
+</resources>

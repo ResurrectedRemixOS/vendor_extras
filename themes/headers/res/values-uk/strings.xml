@@ -31,4 +31,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="wallpaper_location_local">На пристрої</string>
   <string name="wallpaper_location_remote">Онлайн</string>
   <string name="no_network_message">Немає підключення до мережі</string>
+    <string name="scrolling_wall_dialog_title">"Обрізати фоновий малюнок"</string>
+    <string name="wallpaper_default_name">"Фоновий малюнок"</string>
+    <string name="sort_by_default_menu">"Сортувати за назвою"</string>
+    <string name="header_location_local">"Місц."</string>
+    <string name="header_location_online">Онлайн</string>
 </resources>

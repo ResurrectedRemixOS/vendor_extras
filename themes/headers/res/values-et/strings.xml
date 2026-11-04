@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Taustapildid"</string>
+    <string name="wallpaper_type_dialog_title">"Määra taustapilt"</string>
+    <string name="wallpaper_type_both">"Avakuva ja lukustuskuva"</string>
+    <string name="wallpaper_type_system">"Avakuva"</string>
+    <string name="wallpaper_type_lock">"Lukustuskuva"</string>
+    <string name="scrolling_wall_dialog_title">"Taustapildi kärpimine"</string>
+    <string name="scrolling_wall_yes">"Ei"</string>
+    <string name="scrolling_wall_no">"Jah"</string>
+    <string name="wallpaper_location_local">"Kohalik"</string>
+    <string name="wallpaper_default_name">"Taustapilt"</string>
+    <string name="sort_by_default_menu">"Sordi nime alusel"</string>
+    <string name="header_location_local">"Kohalik"</string>
+</resources>

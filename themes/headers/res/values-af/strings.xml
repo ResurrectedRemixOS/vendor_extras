@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Muurpapiere"</string>
+    <string name="wallpaper_type_dialog_title">"Stel muurpapier"</string>
+    <string name="wallpaper_type_both">"Tuisskerm en sluitskerm"</string>
+    <string name="wallpaper_type_system">"Tuisskerm"</string>
+    <string name="wallpaper_type_lock">"Sluitskerm"</string>
+    <string name="scrolling_wall_dialog_title">"Snoei muurpapier"</string>
+    <string name="scrolling_wall_yes">"Nee"</string>
+    <string name="scrolling_wall_no">"Ja"</string>
+    <string name="wallpaper_location_local">"Plaaslik"</string>
+    <string name="wallpaper_default_name">"Muurpapier"</string>
+    <string name="sort_by_default_menu">"Rangskik volgens naam"</string>
+    <string name="header_location_local">"Plaaslik"</string>
+</resources>

@@ -39,4 +39,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="no_network_message">Bez sieťového pripojenia</string>
   <string name="download_wallpaper_list_failed_notice">Načítavanie adresára tapety zlyhalo</string>
   <string name="wallpaper_default_name">Tapeta</string>
+    <string name="sort_by_default_menu">"Zoradiť podľa názvu"</string>
+    <string name="header_location_local">"Miestne"</string>
+    <string name="header_location_online">Cez internet</string>
 </resources>

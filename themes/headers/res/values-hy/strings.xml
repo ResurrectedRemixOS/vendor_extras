@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Պաստառներ"</string>
+    <string name="wallpaper_type_dialog_title">"Սահմանել պաստառ"</string>
+    <string name="wallpaper_type_both">"Հիմնական էկրան և կողպէկրան"</string>
+    <string name="wallpaper_type_system">"Հիմնական էկրան"</string>
+    <string name="wallpaper_type_lock">"Կողպէկրան"</string>
+    <string name="scrolling_wall_dialog_title">"Եզրատել պաստառը"</string>
+    <string name="scrolling_wall_yes">"Ոչ"</string>
+    <string name="scrolling_wall_no">"Այո"</string>
+    <string name="wallpaper_location_local">"Տեղական"</string>
+    <string name="wallpaper_default_name">"Պաստառ"</string>
+    <string name="sort_by_default_menu">"Դասակարգել ըստ անունների"</string>
+    <string name="header_location_local">"Տեղական"</string>
+</resources>

@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Baggrunde"</string>
+    <string name="wallpaper_type_dialog_title">"Angiv baggrund"</string>
+    <string name="wallpaper_type_both">"Startskærm og låseskærm"</string>
+    <string name="wallpaper_type_system">"Startskærm"</string>
+    <string name="wallpaper_type_lock">"Låseskærm"</string>
+    <string name="scrolling_wall_dialog_title">"Beskær baggrunden"</string>
+    <string name="scrolling_wall_yes">"Nej"</string>
+    <string name="scrolling_wall_no">"Ja"</string>
+    <string name="wallpaper_location_local">"Lokal"</string>
+    <string name="wallpaper_default_name">"Baggrund"</string>
+    <string name="sort_by_default_menu">"Sortér efter navn"</string>
+    <string name="header_location_local">"Lokal"</string>
+</resources>

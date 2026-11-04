@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">Páipéir Balla</string>
+    <string name="wallpaper_type_dialog_title">Socraigh cúlbhrat</string>
+    <string name="wallpaper_type_both">Scáileán baile agus scáileán glasála</string>
+    <string name="wallpaper_type_system">Scáileán baile</string>
+    <string name="wallpaper_type_lock">Scáileán glasála</string>
+    <string name="scrolling_wall_yes">Níl</string>
+    <string name="scrolling_wall_no">Tá</string>
+    <string name="wallpaper_location_local">Áitiúil</string>
+    <string name="wallpaper_default_name">Páipéar balla</string>
+    <string name="sort_by_default_menu">Sórtáil de réir ainm</string>
+    <string name="header_location_local">Áitiúil</string>
+</resources>

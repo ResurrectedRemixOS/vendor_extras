@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"နောက်ခံပုံများ"</string>
+    <string name="wallpaper_type_dialog_title">"နောက်ခံ သတ်မှတ်ရန်"</string>
+    <string name="wallpaper_type_both">"ပင်မစာမျက်နှာနှင့် လော့ခ်စာမျက်နှာ"</string>
+    <string name="wallpaper_type_system">"ပင်မစာမျက်နှာ"</string>
+    <string name="wallpaper_type_lock">"လော့ခ်စခရင်"</string>
+    <string name="wallpaper_location_local">"ပြည်တွင်း"</string>
+    <string name="wallpaper_default_name">"နောက်ခံ"</string>
+    <string name="sort_by_default_menu">"အမည်အလိုက် စီရန်"</string>
+    <string name="header_location_local">"ပြည်တွင်း"</string>
+</resources>

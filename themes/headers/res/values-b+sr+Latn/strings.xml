@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"Pozadine"</string>
+    <string name="wallpaper_type_dialog_title">"Podesi pozadinu"</string>
+    <string name="wallpaper_type_both">"Početni ekran i zaključani ekran"</string>
+    <string name="wallpaper_type_system">"Početni ekran"</string>
+    <string name="wallpaper_type_lock">"Zaključani ekran"</string>
+    <string name="scrolling_wall_yes">"Ne"</string>
+    <string name="scrolling_wall_no">"Da"</string>
+    <string name="wallpaper_location_local">"Lokalno"</string>
+    <string name="wallpaper_default_name">"Pozadina"</string>
+    <string name="sort_by_default_menu">"Sortiraj prema imenu"</string>
+    <string name="header_location_local">"Lokalno"</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">Fonts</string>
+    <string name="wallpaper_type_dialog_title">Stabilìs fonts</string>
+    <string name="wallpaper_type_both">Schermade di inizi e schermade di bloc</string>
+    <string name="wallpaper_type_system">Schermade di inizi</string>
+    <string name="wallpaper_type_lock">Schermade di bloc</string>
+    <string name="scrolling_wall_dialog_title">Ritaie il fonts dal schermi</string>
+    <string name="scrolling_wall_no">Sì</string>
+    <string name="wallpaper_location_local">Locâl</string>
+    <string name="wallpaper_default_name">Fonts</string>
+    <string name="sort_by_default_menu">Ordene par non</string>
+    <string name="header_location_local">Locâl</string>
+</resources>

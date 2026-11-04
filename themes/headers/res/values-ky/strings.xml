@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"Тушкагаздар"</string>
+    <string name="wallpaper_type_dialog_title">"Тушкагаз коюу"</string>
+    <string name="wallpaper_type_both">"Башкы экран жана кулпуланган экран"</string>
+    <string name="wallpaper_type_system">"Башкы экран"</string>
+    <string name="wallpaper_type_lock">"Кулпуланган экран"</string>
+    <string name="scrolling_wall_yes">"Жок"</string>
+    <string name="scrolling_wall_no">"Ооба"</string>
+    <string name="wallpaper_location_local">"Жергиликтүү"</string>
+    <string name="wallpaper_default_name">"Тушкагаз"</string>
+    <string name="sort_by_default_menu">"Аталышы боюнча иргөө"</string>
+    <string name="header_location_local">"Жергиликтүү"</string>
+</resources>

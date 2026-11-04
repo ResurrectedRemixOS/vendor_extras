@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"壁紙"</string>
+    <string name="wallpaper_type_dialog_title">"壁紙を設定"</string>
+    <string name="wallpaper_type_both">"ホーム画面とロック画面"</string>
+    <string name="wallpaper_type_system">"ホーム画面"</string>
+    <string name="wallpaper_type_lock">"ロック画面"</string>
+    <string name="scrolling_wall_dialog_title">"壁紙のトリミング"</string>
+    <string name="scrolling_wall_yes">"いいえ"</string>
+    <string name="scrolling_wall_no">"はい"</string>
+    <string name="wallpaper_location_local">"ローカル"</string>
+    <string name="wallpaper_default_name">"壁紙"</string>
+    <string name="sort_by_default_menu">"名前順"</string>
+    <string name="header_location_local">"ローカル"</string>
+</resources>

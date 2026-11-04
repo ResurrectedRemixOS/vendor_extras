@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"ພາບພື້ນຫຼັງ"</string>
+    <string name="wallpaper_type_dialog_title">"ຕັ້ງພາບພື້ນຫຼັງ"</string>
+    <string name="wallpaper_type_both">"ໜ້າຈໍຫຼັກ ແລະ ໜ້າຈໍລັອກ"</string>
+    <string name="wallpaper_type_system">"ໂຮມສະກຣີນ"</string>
+    <string name="wallpaper_type_lock">"ໜ້າຈໍລັອກ"</string>
+    <string name="scrolling_wall_dialog_title">"ຕັດພາບພື້ນຫຼັງ"</string>
+    <string name="scrolling_wall_yes">"ບໍ່"</string>
+    <string name="scrolling_wall_no">"ແມ່ນ"</string>
+    <string name="wallpaper_location_local">"ທ້ອງຖິ່ນ"</string>
+    <string name="wallpaper_default_name">"ຮູບພື້ນຫຼັງ"</string>
+    <string name="sort_by_default_menu">"ຮຽງຕາມຊື່"</string>
+    <string name="header_location_local">"ທ້ອງຖິ່ນ"</string>
+</resources>

@@ -16,4 +16,14 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Mga Wallpaper"</string>
+    <string name="wallpaper_type_dialog_title">"Itakda ang wallpaper"</string>
+    <string name="wallpaper_type_both">"Home screen at lock screen"</string>
+    <string name="scrolling_wall_dialog_title">"I-crop ang wallpaper"</string>
+    <string name="scrolling_wall_yes">"Hindi"</string>
+    <string name="scrolling_wall_no">"Oo"</string>
+    <string name="wallpaper_location_local">"Lokal"</string>
+    <string name="sort_by_default_menu">"Isaayos ayon sa pangalan"</string>
+    <string name="header_location_local">"Lokal"</string>
+</resources>

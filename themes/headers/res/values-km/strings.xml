@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"ផ្ទាំង​រូបភាព"</string>
+    <string name="wallpaper_type_dialog_title">"កំណត់​ផ្ទាំង​រូបភាព"</string>
+    <string name="wallpaper_type_both">"អេក្រង់ដើម និងអេក្រង់ជាប់សោ"</string>
+    <string name="wallpaper_type_system">"អេក្រង់ដើម"</string>
+    <string name="wallpaper_type_lock">"អេក្រង់ចាក់សោ"</string>
+    <string name="scrolling_wall_dialog_title">"ច្រឹប​ផ្ទាំង​រូបភាព"</string>
+    <string name="scrolling_wall_yes">"ទេ"</string>
+    <string name="scrolling_wall_no">"បាទ/ចាស"</string>
+    <string name="wallpaper_location_local">"ក្នុងស្រុក"</string>
+    <string name="wallpaper_default_name">"ផ្ទាំង​រូបភាព"</string>
+    <string name="sort_by_default_menu">"តម្រៀប​តាម​ឈ្មោះ"</string>
+    <string name="header_location_local">"ក្នុងស្រុក"</string>
+</resources>

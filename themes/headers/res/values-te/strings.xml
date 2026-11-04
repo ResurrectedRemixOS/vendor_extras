@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">"వాల్‌పేపర్‌లు"</string>
+    <string name="wallpaper_type_dialog_title">"వాల్‌పేపర్‌ను సెట్ చేయండి"</string>
+    <string name="wallpaper_type_both">"హోమ్ స్క్రీన్ మరియు లాక్ స్క్రీన్"</string>
+    <string name="wallpaper_type_system">"మొదటి స్క్రీన్"</string>
+    <string name="wallpaper_type_lock">"లాక్ స్క్రీన్"</string>
+    <string name="scrolling_wall_yes">"లేదు"</string>
+    <string name="scrolling_wall_no">"అవును"</string>
+    <string name="wallpaper_location_local">"స్థానికం"</string>
+    <string name="wallpaper_default_name">"వాల్‌పేపర్"</string>
+    <string name="sort_by_default_menu">"పేరు ద్వారా వ‌ర్గీక‌రించు"</string>
+    <string name="header_location_local">"స్థానికం"</string>
+</resources>

@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"Hình nền"</string>
+    <string name="wallpaper_type_dialog_title">"Đặt hình nền"</string>
+    <string name="wallpaper_type_both">"Màn hình chính và màn hình khóa"</string>
+    <string name="wallpaper_type_system">"Màn hình chính"</string>
+    <string name="wallpaper_type_lock">"Màn hình khóa"</string>
+    <string name="scrolling_wall_dialog_title">"Cắt hình nền"</string>
+    <string name="scrolling_wall_yes">"Không"</string>
+    <string name="scrolling_wall_no">"Có"</string>
+    <string name="wallpaper_location_local">"Địa phương"</string>
+    <string name="wallpaper_default_name">"Hình nền"</string>
+    <string name="sort_by_default_menu">"Sắp xếp theo tên"</string>
+    <string name="header_location_local">"Địa phương"</string>
+</resources>

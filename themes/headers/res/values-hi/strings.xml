@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"वॉलपेपर"</string>
+    <string name="wallpaper_type_dialog_title">"वॉलपेपर सेट करें"</string>
+    <string name="wallpaper_type_both">"होम स्क्रीन और लॉक स्क्रीन"</string>
+    <string name="wallpaper_type_system">"होम स्क्रीन"</string>
+    <string name="wallpaper_type_lock">"लॉक स्क्रीन"</string>
+    <string name="scrolling_wall_dialog_title">"वॉलपेपर काटें"</string>
+    <string name="scrolling_wall_yes">"नहीं"</string>
+    <string name="scrolling_wall_no">"हां"</string>
+    <string name="wallpaper_location_local">"स्थानीय"</string>
+    <string name="wallpaper_default_name">"वॉलपेपर"</string>
+    <string name="sort_by_default_menu">"नाम के हिसाब से क्रम से लगाएं"</string>
+    <string name="header_location_local">"स्थानीय"</string>
+</resources>

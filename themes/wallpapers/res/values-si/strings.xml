@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="set_wallpaper">"වෝල්පේපරය සකසන්න"</string>
+    <string name="no_wallpaper">වෝල්පේපරක් නැත</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">تام قەغەز</string>
+    <string name="wallpaper_type_dialog_title">تام قەغەز تەڭشىكى</string>
+    <string name="wallpaper_type_system">باش ئېكران</string>
+    <string name="wallpaper_type_lock">قۇلۇپ ئېكران</string>
+    <string name="scrolling_wall_dialog_title">تام قەغەز كەس</string>
+    <string name="scrolling_wall_yes">ياق</string>
+    <string name="scrolling_wall_no">ھەئە</string>
+    <string name="wallpaper_location_local">يەرلىك</string>
+    <string name="wallpaper_default_name">تام قەغىزى</string>
+    <string name="sort_by_default_menu">ئات بويىچە تەرتىپلە</string>
+    <string name="header_location_local">يەرلىك</string>
+</resources>

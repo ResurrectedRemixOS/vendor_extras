@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">Isfundos</string>
+    <string name="wallpaper_type_dialog_title">Imposta isfundu</string>
+    <string name="wallpaper_type_system">Ischermu printzipale</string>
+    <string name="wallpaper_type_lock">Ischermu de blocu</string>
+    <string name="scrolling_wall_dialog_title">Sega isfundu</string>
+    <string name="scrolling_wall_yes">Nono</string>
+    <string name="scrolling_wall_no">Eja</string>
+    <string name="wallpaper_location_local">Locale</string>
+    <string name="wallpaper_default_name">Immàgine de isfundu</string>
+    <string name="sort_by_default_menu">Assenta pro nùmene</string>
+    <string name="header_location_local">Locale</string>
+</resources>

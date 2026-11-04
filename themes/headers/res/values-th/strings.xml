@@ -16,4 +16,17 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_walls">"วอลเปเปอร์"</string>
+    <string name="wallpaper_type_dialog_title">"ตั้งค่าวอลเปเปอร์"</string>
+    <string name="wallpaper_type_both">"หน้าจอหลักและหน้าจอล็อก"</string>
+    <string name="wallpaper_type_system">"หน้าจอหลัก"</string>
+    <string name="wallpaper_type_lock">"หน้าจอล็อก"</string>
+    <string name="scrolling_wall_dialog_title">"ครอบตัดวอลเปเปอร์"</string>
+    <string name="scrolling_wall_yes">"ไม่"</string>
+    <string name="scrolling_wall_no">"ใช่"</string>
+    <string name="wallpaper_location_local">"ท้องถิ่น"</string>
+    <string name="wallpaper_default_name">"วอลเปเปอร์"</string>
+    <string name="sort_by_default_menu">"จัดเรียงตามชื่อ"</string>
+    <string name="header_location_local">"ท้องถิ่น"</string>
+</resources>

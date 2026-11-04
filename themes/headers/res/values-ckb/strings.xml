@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browse_walls">پاشبنەماکان</string>
+    <string name="wallpaper_type_dialog_title">دانانی وێنەی پاشبنەما</string>
+    <string name="wallpaper_type_both">ڕوونمای سەرەکی و ڕوونمای قوفڵ</string>
+    <string name="wallpaper_type_system">ڕوونمای سەرەکی</string>
+    <string name="wallpaper_type_lock">قوفڵی ڕوونما</string>
+    <string name="scrolling_wall_dialog_title">بڕینی وێنەی پاشبنەما</string>
+    <string name="scrolling_wall_yes">نەخێر</string>
+    <string name="scrolling_wall_no">بەڵێ</string>
+    <string name="wallpaper_location_local">ناوخۆیی</string>
+    <string name="wallpaper_default_name">وێنەی پاشبنەما</string>
+    <string name="sort_by_default_menu">ڕیزکردن بەپێی ناو</string>
+    <string name="header_location_local">ناوخۆیی</string>
+</resources>

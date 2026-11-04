@@ -39,4 +39,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="no_network_message">Ingen nettverkstilkobling</string>
   <string name="download_wallpaper_list_failed_notice">Lasting av bakgrunnsbildekatalog mislyktes</string>
   <string name="wallpaper_default_name">Bakgrunn</string>
+    <string name="sort_by_default_menu">"Sorter etter navn"</string>
+    <string name="header_location_local">"Lokal"</string>
+    <string name="header_location_online">Pålogget</string>
 </resources>
