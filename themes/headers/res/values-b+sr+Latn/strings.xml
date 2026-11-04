@@ -11,4 +11,24 @@
     <string name="wallpaper_default_name">"Pozadina"</string>
     <string name="sort_by_default_menu">"Sortiraj prema imenu"</string>
     <string name="header_location_local">"Lokalno"</string>
+    <string name="browse_header">Zaglavlja</string>
+    <string name="custom_header_image_notice">Slika zaglavlja postavljena</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Autor:</string>
+    <string name="no_crop_activity_dialog_text">Za postavljanje pozadine potrebna je aplikacija Omni Gallery</string>
+    <string name="no_crop_activity_dialog_title">Galerija nije pronađena</string>
+    <string name="scrolling_wall_dialog_text">Želite li da isečete pozadinu na veličinu ekrana?</string>
+    <string name="wallpaper_location_remote">Onlajn</string>
+    <string name="download_wallpaper_notice">Preuzimanje pozadine</string>
+    <string name="download_wallpaper_failed_notice">Preuzimanje pozadine nije uspelo</string>
+    <string name="no_network_message">Nema mrežne veze</string>
+    <string name="download_wallpaper_list_failed_notice">Učitavanje direktorijuma pozadina nije uspelo</string>
+    <string name="browse_theme_walls">Pozadine tema</string>
+    <string name="browse_theme_header">Zaglavlja tema</string>
+    <string name="pick_header">Izaberite zaglavlja</string>
+    <string name="sort_by_creator_menu">Sortiraj po autoru</string>
+    <string name="sort_by_tag_menu">Sortiraj po oznaci</string>
+    <string name="download_header_notice">Preuzimanje zaglavlja</string>
+    <string name="download_header_failed_notice">Preuzimanje zaglavlja nije uspelo</string>
+    <string name="header_location_online">Onlajn</string>
 </resources>

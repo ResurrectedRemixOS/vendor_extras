@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Hình nền"</string>
     <string name="sort_by_default_menu">"Sắp xếp theo tên"</string>
     <string name="header_location_local">"Địa phương"</string>
+    <string name="browse_header">Ảnh tiêu đề</string>
+    <string name="custom_header_image_notice">Đã đặt ảnh tiêu đề</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Tác giả:</string>
+    <string name="no_crop_activity_dialog_text">Cần ứng dụng Omni Gallery để đặt hình nền</string>
+    <string name="no_crop_activity_dialog_title">Thiếu ứng dụng Thư viện</string>
+    <string name="scrolling_wall_dialog_text">Bạn có muốn cắt hình nền theo kích thước màn hình không?</string>
+    <string name="wallpaper_location_remote">Trực tuyến</string>
+    <string name="download_wallpaper_notice">Đang tải hình nền</string>
+    <string name="download_wallpaper_failed_notice">Tải hình nền thất bại</string>
+    <string name="no_network_message">Không có kết nối mạng</string>
+    <string name="download_wallpaper_list_failed_notice">Tải danh sách hình nền thất bại</string>
+    <string name="browse_theme_walls">Hình nền giao diện</string>
+    <string name="browse_theme_header">Ảnh tiêu đề giao diện</string>
+    <string name="pick_header">Chọn ảnh tiêu đề</string>
+    <string name="sort_by_creator_menu">Sắp xếp theo tác giả</string>
+    <string name="sort_by_tag_menu">Sắp xếp theo thẻ</string>
+    <string name="download_header_notice">Đang tải ảnh tiêu đề</string>
+    <string name="download_header_failed_notice">Tải ảnh tiêu đề thất bại</string>
+    <string name="header_location_online">Trực tuyến</string>
 </resources>

@@ -26,4 +26,27 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_no">"Sí"</string>
     <string name="wallpaper_default_name">"Fons de pantalla"</string>
     <string name="sort_by_default_menu">"Ordena per nom"</string>
+    <string name="browse_header">Capçaleres</string>
+    <string name="custom_header_image_notice">Imatge de capçalera definida</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Creador:</string>
+    <string name="no_crop_activity_dialog_text">Cal l\'aplicació Omni Gallery per definir el fons de pantalla</string>
+    <string name="no_crop_activity_dialog_title">Falta la galeria</string>
+    <string name="scrolling_wall_dialog_text">Vols retallar el fons de pantalla a la mida de la pantalla?</string>
+    <string name="scrolling_wall_yes">No</string>
+    <string name="wallpaper_location_local">Local</string>
+    <string name="wallpaper_location_remote">En línia</string>
+    <string name="download_wallpaper_notice">S\'està baixant el fons de pantalla</string>
+    <string name="download_wallpaper_failed_notice">Ha fallat la descàrrega del fons de pantalla</string>
+    <string name="no_network_message">No hi ha connexió a la xarxa</string>
+    <string name="download_wallpaper_list_failed_notice">Ha fallat la càrrega del directori de fons de pantalla</string>
+    <string name="browse_theme_walls">Fons de pantalla del tema</string>
+    <string name="browse_theme_header">Capçaleres del tema</string>
+    <string name="pick_header">Selecciona les capçaleres</string>
+    <string name="sort_by_creator_menu">Ordena per creador</string>
+    <string name="sort_by_tag_menu">Ordena per etiqueta</string>
+    <string name="download_header_notice">S\'està baixant la capçalera</string>
+    <string name="download_header_failed_notice">Ha fallat la descàrrega de la capçalera</string>
+    <string name="header_location_local">Local</string>
+    <string name="header_location_online">En línia</string>
 </resources>

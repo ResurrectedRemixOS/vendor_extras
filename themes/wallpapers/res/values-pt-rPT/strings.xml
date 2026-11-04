@@ -19,4 +19,5 @@
   <string name="app_name">Imagens de fundo CM</string>
   <string name="set_wallpaper">Definir imagem de fundo</string>
   <string name="no_wallpaper">Sem imagem de fundo</string>
+    <string name="rr_app_name">Papéis de parede RR</string>
 </resources>

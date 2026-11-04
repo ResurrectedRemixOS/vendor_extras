@@ -19,4 +19,5 @@
   <string name="app_name">Gambar latar CM</string>
   <string name="set_wallpaper">Atur gambar latar</string>
   <string name="no_wallpaper">Tidak ada gambar latar</string>
+    <string name="rr_app_name">Wallpaper RR</string>
 </resources>

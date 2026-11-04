@@ -2,4 +2,5 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="set_wallpaper">"വാൾപേപ്പർ സജ്ജീകരിക്കുക"</string>
     <string name="no_wallpaper">പശ്ചതലചിത്രം വേന്ട</string>
+    <string name="rr_app_name">RR വാൾപേപ്പറുകൾ</string>
 </resources>

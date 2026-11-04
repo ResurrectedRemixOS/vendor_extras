@@ -28,4 +28,25 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"වෝල්පේපරය"</string>
     <string name="sort_by_default_menu">"නමින් අනුපිළිවෙලට සකසන්න"</string>
     <string name="header_location_local">"දේශීය"</string>
+    <string name="browse_header">ශීර්ෂ</string>
+    <string name="custom_header_image_notice">ශීර්ෂ රූපය සකසා ඇත</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">නිර්මාණකරු:</string>
+    <string name="no_crop_activity_dialog_text">වෝල්පේපරය සැකසීමට Omni Gallery යෙදුම අවශ්‍යයි</string>
+    <string name="no_crop_activity_dialog_title">ගැලරිය නැත</string>
+    <string name="scrolling_wall_dialog_text">වෝල්පේපරය තිර ප්‍රමාණයට කප්පාදු කිරීමට ඔබ කැමතිද?</string>
+    <string name="scrolling_wall_dialog_title">වෝල්පේපරය කප්පාදු කරන්න</string>
+    <string name="wallpaper_location_remote">මාර්ගගත</string>
+    <string name="download_wallpaper_notice">වෝල්පේපරය බාගත වෙමින්</string>
+    <string name="download_wallpaper_failed_notice">වෝල්පේපරය බාගැනීම අසාර්ථක විය</string>
+    <string name="no_network_message">ජාල සම්බන්ධතාවයක් නැත</string>
+    <string name="download_wallpaper_list_failed_notice">වෝල්පේපර නාමාවලිය පැටවීම අසාර්ථක විය</string>
+    <string name="browse_theme_walls">තේමා වෝල්පේපර</string>
+    <string name="browse_theme_header">තේමා ශීර්ෂ</string>
+    <string name="pick_header">ශීර්ෂ තෝරන්න</string>
+    <string name="sort_by_creator_menu">නිර්මාණකරුට අනුව තේරීම</string>
+    <string name="sort_by_tag_menu">ටැගයට අනුව තේරීම</string>
+    <string name="download_header_notice">ශීර්ෂය බාගත වෙමින්</string>
+    <string name="download_header_failed_notice">ශීර්ෂය බාගැනීම අසාර්ථක විය</string>
+    <string name="header_location_online">මාර්ගගත</string>
 </resources>

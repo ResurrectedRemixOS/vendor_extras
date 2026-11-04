@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Պաստառ"</string>
     <string name="sort_by_default_menu">"Դասակարգել ըստ անունների"</string>
     <string name="header_location_local">"Տեղական"</string>
+    <string name="browse_header">Վերնագրեր</string>
+    <string name="custom_header_image_notice">Վերնագրի պատկերը սահմանված է</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Ստեղծող՝</string>
+    <string name="no_crop_activity_dialog_text">Պաստառ սահմանելու համար պահանջվում է Omni Gallery հավելվածը</string>
+    <string name="no_crop_activity_dialog_title">Պատկերասրահը բացակայում է</string>
+    <string name="scrolling_wall_dialog_text">Ցանկանու՞մ եք կտրել պաստառը էկրանի չափին համապատասխան</string>
+    <string name="wallpaper_location_remote">Առցանց</string>
+    <string name="download_wallpaper_notice">Պաստառը ներբեռնվում է</string>
+    <string name="download_wallpaper_failed_notice">Պաստառի ներբեռնումը ձախողվեց</string>
+    <string name="no_network_message">Ցանց չկա</string>
+    <string name="download_wallpaper_list_failed_notice">Պաստառների ցուցակի բեռնումը ձախողվեց</string>
+    <string name="browse_theme_walls">Թեմայի պաստառներ</string>
+    <string name="browse_theme_header">Թեմայի վերնագրեր</string>
+    <string name="pick_header">Ընտրել վերնագրեր</string>
+    <string name="sort_by_creator_menu">Դասավորել ըստ ստեղծողի</string>
+    <string name="sort_by_tag_menu">Դասավորել ըստ պիտակի</string>
+    <string name="download_header_notice">Վերնագիրը ներբեռնվում է</string>
+    <string name="download_header_failed_notice">Վերնագրի ներբեռնումը ձախողվեց</string>
+    <string name="header_location_online">Առցանց</string>
 </resources>

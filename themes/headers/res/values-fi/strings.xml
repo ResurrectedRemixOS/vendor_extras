@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Taustakuva"</string>
     <string name="sort_by_default_menu">"Lajittele nimen mukaan"</string>
     <string name="header_location_local">"Paikallinen"</string>
+    <string name="browse_header">Otsikkokuvat</string>
+    <string name="custom_header_image_notice">Otsikkokuva asetettu</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Tekijä:</string>
+    <string name="no_crop_activity_dialog_text">Taustakuvan asettamiseen tarvitaan Omni Gallery -sovellus</string>
+    <string name="no_crop_activity_dialog_title">Galleria puuttuu</string>
+    <string name="scrolling_wall_dialog_text">Haluatko rajata taustakuvan näytön kokoon?</string>
+    <string name="wallpaper_location_remote">Verkossa</string>
+    <string name="download_wallpaper_notice">Ladataan taustakuvaa</string>
+    <string name="download_wallpaper_failed_notice">Taustakuvan lataus epäonnistui</string>
+    <string name="no_network_message">Ei verkkoyhteyttä</string>
+    <string name="download_wallpaper_list_failed_notice">Taustakuvakansion lataus epäonnistui</string>
+    <string name="browse_theme_walls">Teeman taustakuvat</string>
+    <string name="browse_theme_header">Teeman otsikkokuvat</string>
+    <string name="pick_header">Valitse otsikkokuvat</string>
+    <string name="sort_by_creator_menu">Lajittele tekijän mukaan</string>
+    <string name="sort_by_tag_menu">Lajittele tunnisteen mukaan</string>
+    <string name="download_header_notice">Ladataan otsikkokuvaa</string>
+    <string name="download_header_failed_notice">Otsikkokuvan lataus epäonnistui</string>
+    <string name="header_location_online">Verkossa</string>
 </resources>

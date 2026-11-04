@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Дэлгэцийн зураг"</string>
     <string name="sort_by_default_menu">"Нэрээр эрэмбэлэх"</string>
     <string name="header_location_local">"Орон нутгийн"</string>
+    <string name="browse_header">Толгой зураг</string>
+    <string name="custom_header_image_notice">Толгой зургийг тохирууллаа</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Зохиогч:</string>
+    <string name="no_crop_activity_dialog_text">Дэлгэцийн зураг тохируулахад Omni Gallery апп шаардлагатай</string>
+    <string name="no_crop_activity_dialog_title">Галерей олдсонгүй</string>
+    <string name="scrolling_wall_dialog_text">Дэлгэцийн зургийг дэлгэцийн хэмжээнд тохируулж тайрах уу?</string>
+    <string name="wallpaper_location_remote">Онлайн</string>
+    <string name="download_wallpaper_notice">Дэлгэцийн зургийг татаж байна</string>
+    <string name="download_wallpaper_failed_notice">Дэлгэцийн зургийг татахад алдаа гарлаа</string>
+    <string name="no_network_message">Сүлжээнд холбогдоогүй байна</string>
+    <string name="download_wallpaper_list_failed_notice">Дэлгэцийн зургийн санг ачаалахад алдаа гарлаа</string>
+    <string name="browse_theme_walls">Загварын дэлгэцийн зургууд</string>
+    <string name="browse_theme_header">Загварын толгой зургууд</string>
+    <string name="pick_header">Толгой зургуудыг сонгох</string>
+    <string name="sort_by_creator_menu">Зохиогчоор эрэмбэлэх</string>
+    <string name="sort_by_tag_menu">Шошгоор эрэмбэлэх</string>
+    <string name="download_header_notice">Толгой зургийг татаж байна</string>
+    <string name="download_header_failed_notice">Толгой зургийг татахад алдаа гарлаа</string>
+    <string name="header_location_online">Онлайн</string>
 </resources>

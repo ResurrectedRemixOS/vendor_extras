@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"วอลเปเปอร์"</string>
     <string name="sort_by_default_menu">"จัดเรียงตามชื่อ"</string>
     <string name="header_location_local">"ท้องถิ่น"</string>
+    <string name="browse_header">ส่วนหัว</string>
+    <string name="custom_header_image_notice">ตั้งภาพส่วนหัวแล้ว</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">ผู้สร้าง:</string>
+    <string name="no_crop_activity_dialog_text">ต้องใช้แอป Omni Gallery เพื่อตั้งวอลเปเปอร์</string>
+    <string name="no_crop_activity_dialog_title">ไม่พบแอปแกลเลอรี</string>
+    <string name="scrolling_wall_dialog_text">ต้องการครอปวอลเปเปอร์ให้พอดีกับขนาดจอหรือไม่?</string>
+    <string name="wallpaper_location_remote">ออนไลน์</string>
+    <string name="download_wallpaper_notice">กำลังดาวน์โหลดวอลเปเปอร์</string>
+    <string name="download_wallpaper_failed_notice">ดาวน์โหลดวอลเปเปอร์ล้มเหลว</string>
+    <string name="no_network_message">ไม่มีการเชื่อมต่อเครือข่าย</string>
+    <string name="download_wallpaper_list_failed_notice">โหลดไดเรกทอรีวอลเปเปอร์ล้มเหลว</string>
+    <string name="browse_theme_walls">วอลเปเปอร์ธีม</string>
+    <string name="browse_theme_header">ส่วนหัวธีม</string>
+    <string name="pick_header">เลือกส่วนหัว</string>
+    <string name="sort_by_creator_menu">เรียงตามผู้สร้าง</string>
+    <string name="sort_by_tag_menu">เรียงตามแท็ก</string>
+    <string name="download_header_notice">กำลังดาวน์โหลดส่วนหัว</string>
+    <string name="download_header_failed_notice">ดาวน์โหลดส่วนหัวล้มเหลว</string>
+    <string name="header_location_online">ออนไลน์</string>
 </resources>

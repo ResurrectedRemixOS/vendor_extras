@@ -38,4 +38,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="sort_by_default_menu">"Ταξινόμηση κατά όνομα"</string>
     <string name="header_location_local">"Τοπικά"</string>
     <string name="header_location_online">Σε σύνδεση</string>
+    <string name="header_creator_label">Δημιουργός:</string>
+    <string name="no_crop_activity_dialog_text">Απαιτείται η εφαρμογή Omni Gallery για τον ορισμό ταπετσαρίας</string>
+    <string name="no_crop_activity_dialog_title">Λείπει η συλλογή</string>
+    <string name="scrolling_wall_dialog_text">Θέλετε να περικόψετε την ταπετσαρία στο μέγεθος της οθόνης;</string>
+    <string name="browse_theme_walls">Ταπετσαρίες θέματος</string>
+    <string name="browse_theme_header">Κεφαλίδες θέματος</string>
+    <string name="pick_header">Επιλογή κεφαλίδων</string>
+    <string name="sort_by_creator_menu">Ταξινόμηση κατά δημιουργό</string>
+    <string name="sort_by_tag_menu">Ταξινόμηση κατά ετικέτα</string>
+    <string name="download_header_notice">Λήψη κεφαλίδας</string>
+    <string name="download_header_failed_notice">Η λήψη κεφαλίδας απέτυχε</string>
 </resources>

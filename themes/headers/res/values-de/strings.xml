@@ -41,4 +41,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="wallpaper_default_name">Hintergrundbild</string>
     <string name="sort_by_default_menu">"Nach Name sortieren"</string>
     <string name="header_location_local">Lokal</string>
+    <string name="browse_theme_walls">Design-Hintergründe</string>
+    <string name="browse_theme_header">Design-Kopfzeilen</string>
+    <string name="pick_header">Kopfzeilen auswählen</string>
+    <string name="sort_by_creator_menu">Nach Ersteller sortieren</string>
+    <string name="sort_by_tag_menu">Nach Tag sortieren</string>
+    <string name="download_header_notice">Kopfzeile wird heruntergeladen</string>
+    <string name="download_header_failed_notice">Herunterladen der Kopfzeile fehlgeschlagen</string>
+    <string name="header_location_online">Online</string>
 </resources>

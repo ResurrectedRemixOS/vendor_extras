@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"Тапет"</string>
     <string name="sort_by_default_menu">"Подреди по име"</string>
     <string name="header_location_local">"Локални"</string>
+    <string name="browse_header">Заглавија</string>
+    <string name="custom_header_image_notice">Сликата на заглавието е поставена</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Креатор:</string>
+    <string name="no_crop_activity_dialog_text">За да поставите тапет, потребна е апликацијата Omni Gallery</string>
+    <string name="no_crop_activity_dialog_title">Галеријата недостасува</string>
+    <string name="scrolling_wall_dialog_text">Дали сакате да го исечете тапетот на големината на екранот?</string>
+    <string name="scrolling_wall_dialog_title">Исечи тапет</string>
+    <string name="wallpaper_location_remote">Онлајн</string>
+    <string name="download_wallpaper_notice">Преземање тапет</string>
+    <string name="download_wallpaper_failed_notice">Преземањето на тапетот не успеа</string>
+    <string name="no_network_message">Нема мрежна врска</string>
+    <string name="download_wallpaper_list_failed_notice">Вчитувањето на директориумот со тапети не успеа</string>
+    <string name="browse_theme_walls">Тапети за темата</string>
+    <string name="browse_theme_header">Заглавија за темата</string>
+    <string name="pick_header">Изберете заглавија</string>
+    <string name="sort_by_creator_menu">Подреди по креатор</string>
+    <string name="sort_by_tag_menu">Подреди по ознака</string>
+    <string name="download_header_notice">Преземање заглавие</string>
+    <string name="download_header_failed_notice">Преземањето на заглавието не успеа</string>
+    <string name="header_location_online">Онлајн</string>
 </resources>

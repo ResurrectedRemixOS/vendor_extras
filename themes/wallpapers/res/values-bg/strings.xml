@@ -19,4 +19,5 @@
   <string name="app_name">СМ тапети</string>
   <string name="set_wallpaper">Задаване като тапет</string>
   <string name="no_wallpaper">Без тапет</string>
+    <string name="rr_app_name">RR тапети</string>
 </resources>

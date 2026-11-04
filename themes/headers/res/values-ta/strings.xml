@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"வால்பேப்பர்"</string>
     <string name="sort_by_default_menu">"பெயரின்படி வரிசைப்படுத்து"</string>
     <string name="header_location_local">"உள்ளூர்"</string>
+    <string name="browse_header">தலைப்புகள்</string>
+    <string name="custom_header_image_notice">தலைப்புப் படம் அமைக்கப்பட்டது</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">உருவாக்கியவர்:</string>
+    <string name="no_crop_activity_dialog_text">வால்பேப்பரை அமைக்க Omni Gallery ஆப் தேவை</string>
+    <string name="no_crop_activity_dialog_title">கேலரி இல்லை</string>
+    <string name="scrolling_wall_dialog_text">வால்பேப்பரைத் திரையின் அளவுக்கு வெட்ட விரும்புகிறீர்களா?</string>
+    <string name="scrolling_wall_dialog_title">வால்பேப்பரை வெட்டு</string>
+    <string name="wallpaper_location_remote">ஆன்லைன்</string>
+    <string name="download_wallpaper_notice">வால்பேப்பர் பதிவிறக்கப்படுகிறது</string>
+    <string name="download_wallpaper_failed_notice">வால்பேப்பர் பதிவிறக்கம் தோல்வியடைந்தது</string>
+    <string name="no_network_message">பிணைய இணைப்பு இல்லை</string>
+    <string name="download_wallpaper_list_failed_notice">வால்பேப்பர் அடைவைக் ஏற்றுவது தோல்வியடைந்தது</string>
+    <string name="browse_theme_walls">தீம் வால்பேப்பர்கள்</string>
+    <string name="browse_theme_header">தீம் தலைப்புகள்</string>
+    <string name="pick_header">தலைப்புகளைத் தேர்ந்தெடு</string>
+    <string name="sort_by_creator_menu">உருவாக்கியவர் வாரியாக வரிசைப்படுத்து</string>
+    <string name="sort_by_tag_menu">குறிச்சொல் வாரியாக வரிசைப்படுத்து</string>
+    <string name="download_header_notice">தலைப்பு பதிவிறக்கப்படுகிறது</string>
+    <string name="download_header_failed_notice">தலைப்பு பதிவிறக்கம் தோல்வியடைந்தது</string>
+    <string name="header_location_online">ஆன்லைன்</string>
 </resources>

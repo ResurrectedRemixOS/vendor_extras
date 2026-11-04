@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Baggrund"</string>
     <string name="sort_by_default_menu">"Sortér efter navn"</string>
     <string name="header_location_local">"Lokal"</string>
+    <string name="browse_header">Headere</string>
+    <string name="custom_header_image_notice">Headerbillede angivet</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Skaber:</string>
+    <string name="no_crop_activity_dialog_text">Omni Gallery-appen skal være installeret for at angive baggrund</string>
+    <string name="no_crop_activity_dialog_title">Galleri mangler</string>
+    <string name="scrolling_wall_dialog_text">Vil du beskære baggrunden til skærmstørrelsen?</string>
+    <string name="wallpaper_location_remote">Online</string>
+    <string name="download_wallpaper_notice">Henter baggrund</string>
+    <string name="download_wallpaper_failed_notice">Hentning af baggrund mislykkedes</string>
+    <string name="no_network_message">Ingen netværksforbindelse</string>
+    <string name="download_wallpaper_list_failed_notice">Indlæsning af baggrundsmappen mislykkedes</string>
+    <string name="browse_theme_walls">Temabaggrunde</string>
+    <string name="browse_theme_header">Temaheadere</string>
+    <string name="pick_header">Vælg headere</string>
+    <string name="sort_by_creator_menu">Sortér efter skaber</string>
+    <string name="sort_by_tag_menu">Sortér efter mærke</string>
+    <string name="download_header_notice">Henter header</string>
+    <string name="download_header_failed_notice">Hentning af header mislykkedes</string>
+    <string name="header_location_online">Online</string>
 </resources>

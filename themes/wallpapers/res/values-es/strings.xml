@@ -19,4 +19,5 @@
   <string name="app_name">Fondos de pantalla de CM</string>
   <string name="set_wallpaper">Establecer fondo de pantalla</string>
   <string name="no_wallpaper">Sin fondo de pantalla</string>
+    <string name="rr_app_name">Fondos de RR</string>
 </resources>

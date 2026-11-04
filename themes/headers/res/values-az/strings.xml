@@ -25,4 +25,11 @@
     <string name="sort_by_default_menu">"Ad üzrə sırala"</string>
     <string name="header_location_local">"Yerli"</string>
     <string name="header_location_online">Onlayn</string>
+    <string name="browse_theme_walls">Mövzu divar kağızları</string>
+    <string name="browse_theme_header">Mövzu başlıqları</string>
+    <string name="pick_header">Başlıqları seçin</string>
+    <string name="sort_by_creator_menu">Yaradıcıya görə düzün</string>
+    <string name="sort_by_tag_menu">Etiketə görə düzün</string>
+    <string name="download_header_notice">Başlıq yüklənir</string>
+    <string name="download_header_failed_notice">Başlığın yüklənməsi uğursuz oldu</string>
 </resources>

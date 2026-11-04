@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="set_wallpaper">"နောက်ခံ သတ်မှတ်ရန်"</string>
+    <string name="rr_app_name">RR နောက်ခံများ</string>
+    <string name="no_wallpaper">နောက်ခံ မရှိပါ</string>
 </resources>

@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"Horma-papera"</string>
     <string name="sort_by_default_menu">"Ordenatu izenaren arabera"</string>
     <string name="header_location_local">"Tokikoa"</string>
+    <string name="browse_header">Goiburuak</string>
+    <string name="custom_header_image_notice">Goiburu-irudia ezarrita</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Sortzailea:</string>
+    <string name="no_crop_activity_dialog_text">Omni Gallery aplikazioa behar da horma-papera ezartzeko</string>
+    <string name="no_crop_activity_dialog_title">Galeria falta da</string>
+    <string name="scrolling_wall_dialog_text">Horma-papera pantailaren tamainara moztu nahi duzu?</string>
+    <string name="scrolling_wall_dialog_title">Moztu horma-papera</string>
+    <string name="wallpaper_location_remote">Konektatuta</string>
+    <string name="download_wallpaper_notice">Horma-papera deskargatzen</string>
+    <string name="download_wallpaper_failed_notice">Horma-paperaren deskarga huts egin du</string>
+    <string name="no_network_message">Ez dago sareko konexiorik</string>
+    <string name="download_wallpaper_list_failed_notice">Horma-paperen direktorioa kargatzeak huts egin du</string>
+    <string name="browse_theme_walls">Gaiaren horma-paperak</string>
+    <string name="browse_theme_header">Gaiaren goiburuak</string>
+    <string name="pick_header">Hautatu goiburuak</string>
+    <string name="sort_by_creator_menu">Ordenatu sortzailearen arabera</string>
+    <string name="sort_by_tag_menu">Ordenatu etiketaren arabera</string>
+    <string name="download_header_notice">Goiburua deskargatzen</string>
+    <string name="download_header_failed_notice">Goiburuaren deskarga huts egin du</string>
+    <string name="header_location_online">Konektatuta</string>
 </resources>

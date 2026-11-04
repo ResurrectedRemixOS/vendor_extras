@@ -19,4 +19,5 @@
   <string name="app_name">CM壁紙</string>
   <string name="set_wallpaper">壁紙を設定</string>
   <string name="no_wallpaper">壁紙なし</string>
+    <string name="rr_app_name">RR 壁紙</string>
 </resources>

@@ -19,4 +19,5 @@
   <string name="app_name">ภาพพื้นหลัง CM</string>
   <string name="set_wallpaper">ตั้งภาพพื้นหลัง</string>
   <string name="no_wallpaper">ไม่มีภาพพื้นหลัง</string>
+    <string name="rr_app_name">วอลเปเปอร์ RR</string>
 </resources>

@@ -42,4 +42,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="sort_by_default_menu">"Zoradiť podľa názvu"</string>
     <string name="header_location_local">"Miestne"</string>
     <string name="header_location_online">Cez internet</string>
+    <string name="browse_theme_walls">Témy – tapety</string>
+    <string name="browse_theme_header">Témy – hlavičky</string>
+    <string name="pick_header">Vybrať hlavičky</string>
+    <string name="sort_by_creator_menu">Zoradiť podľa tvorcu</string>
+    <string name="sort_by_tag_menu">Zoradiť podľa značky</string>
+    <string name="download_header_notice">Sťahuje sa hlavička</string>
+    <string name="download_header_failed_notice">Sťahovanie hlavičky zlyhalo</string>
 </resources>

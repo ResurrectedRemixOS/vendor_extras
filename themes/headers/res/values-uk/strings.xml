@@ -36,4 +36,17 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="sort_by_default_menu">"Сортувати за назвою"</string>
     <string name="header_location_local">"Місц."</string>
     <string name="header_location_online">Онлайн</string>
+    <string name="no_crop_activity_dialog_text">Для встановлення фонового малюнка потрібен застосунок Omni Gallery</string>
+    <string name="no_crop_activity_dialog_title">Галерею не знайдено</string>
+    <string name="scrolling_wall_dialog_text">Обрізати фоновий малюнок до розміру екрана?</string>
+    <string name="download_wallpaper_notice">Завантаження фонового малюнка</string>
+    <string name="download_wallpaper_failed_notice">Не вдалося завантажити фоновий малюнок</string>
+    <string name="download_wallpaper_list_failed_notice">Не вдалося завантажити каталог фонових малюнків</string>
+    <string name="browse_theme_walls">Фонові малюнки теми</string>
+    <string name="browse_theme_header">Заголовки теми</string>
+    <string name="pick_header">Вибрати заголовки</string>
+    <string name="sort_by_creator_menu">Сортувати за автором</string>
+    <string name="sort_by_tag_menu">Сортувати за тегом</string>
+    <string name="download_header_notice">Завантаження заголовка</string>
+    <string name="download_header_failed_notice">Не вдалося завантажити заголовок</string>
 </resources>

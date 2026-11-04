@@ -2,4 +2,5 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="set_wallpaper">"ୱାଲପେପର ସେଟ କରନ୍ତୁ"</string>
     <string name="no_wallpaper">କୌଣସି ୱାଲପେପର୍ ନାହିଁ</string>
+    <string name="rr_app_name">RR ୱାଲପେପର</string>
 </resources>

@@ -41,4 +41,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="wallpaper_default_name">Fond d\'écran</string>
     <string name="sort_by_default_menu">"Trier par nom"</string>
     <string name="header_location_online">En ligne</string>
+    <string name="browse_theme_walls">Fonds d\'écran du thème</string>
+    <string name="browse_theme_header">En-têtes du thème</string>
+    <string name="pick_header">Sélectionner les en-têtes</string>
+    <string name="sort_by_creator_menu">Trier par créateur</string>
+    <string name="sort_by_tag_menu">Trier par étiquette</string>
+    <string name="download_header_notice">Téléchargement de l\'en-tête</string>
+    <string name="download_header_failed_notice">Échec du téléchargement de l\'en-tête</string>
+    <string name="header_location_local">Local</string>
 </resources>

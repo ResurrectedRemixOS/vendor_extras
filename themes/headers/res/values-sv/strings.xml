@@ -34,4 +34,19 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_both">"Startskärm och låsskärm"</string>
     <string name="sort_by_default_menu">"Sortera efter namn"</string>
     <string name="header_location_local">"Lokal"</string>
+    <string name="browse_header">Rubriker</string>
+    <string name="custom_header_image_notice">Rubrikbild angiven</string>
+    <string name="no_crop_activity_dialog_text">Omni Gallery-appen krävs för att ange bakgrund</string>
+    <string name="no_crop_activity_dialog_title">Galleriet saknas</string>
+    <string name="scrolling_wall_dialog_text">Vill du beskära bakgrunden till skärmens storlek?</string>
+    <string name="download_wallpaper_notice">Laddar ned bakgrund</string>
+    <string name="download_wallpaper_failed_notice">Nedladdningen av bakgrunden misslyckades</string>
+    <string name="browse_theme_walls">Temabakgrunder</string>
+    <string name="browse_theme_header">Temarubriker</string>
+    <string name="pick_header">Välj rubriker</string>
+    <string name="sort_by_creator_menu">Sortera efter skapare</string>
+    <string name="sort_by_tag_menu">Sortera efter tagg</string>
+    <string name="download_header_notice">Laddar ned rubrik</string>
+    <string name="download_header_failed_notice">Nedladdningen av rubriken misslyckades</string>
+    <string name="header_location_online">Online</string>
 </resources>

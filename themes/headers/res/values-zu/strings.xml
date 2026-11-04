@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Isithombe sangemuva"</string>
     <string name="sort_by_default_menu">"Hlunga ngegama"</string>
     <string name="header_location_local">"Endaweni"</string>
+    <string name="browse_header">Izihloko</string>
+    <string name="custom_header_image_notice">Umfanekiso wesihloko usethiwe</string>
+    <string name="omni_walls">Izilayidi zamanzi</string>
+    <string name="header_creator_label">Umdali:</string>
+    <string name="no_crop_activity_dialog_text">Uhlelo lokusebenza lwe-Omni Gallery luyadingeka ukuze usethe isithombe sangemuva</string>
+    <string name="no_crop_activity_dialog_title">Igalari ayitholakali</string>
+    <string name="scrolling_wall_dialog_text">Ufuna ukusika isithombe sangemuva ngosayizi wesikrini?</string>
+    <string name="wallpaper_location_remote">Ku-inthanethi</string>
+    <string name="download_wallpaper_notice">Ilanda isithombe sangemuva</string>
+    <string name="download_wallpaper_failed_notice">Ukulanda isithombe sangemuva kuhlulekile</string>
+    <string name="no_network_message">Akukho ukuxhumeka kwenethiwekhi</string>
+    <string name="download_wallpaper_list_failed_notice">Ukulayisha uhla lwesithombe sangemuva kuhlulekile</string>
+    <string name="browse_theme_walls">Izithombe sangemuva zetimu</string>
+    <string name="browse_theme_header">Izihloko zetimu</string>
+    <string name="pick_header">Khetha izihloko</string>
+    <string name="sort_by_creator_menu">Hlela ngomdali</string>
+    <string name="sort_by_tag_menu">Hlela ngethegi</string>
+    <string name="download_header_notice">Ilanda isihloko</string>
+    <string name="download_header_failed_notice">Ukulanda isihloko kuhlulekile</string>
+    <string name="header_location_online">Ku-inthanethi</string>
 </resources>

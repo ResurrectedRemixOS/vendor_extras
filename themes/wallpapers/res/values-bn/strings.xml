@@ -2,4 +2,5 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="set_wallpaper">"ওয়ালপেপার সেট করুন"</string>
     <string name="no_wallpaper">ওয়ালপেপার ছাড়া</string>
+    <string name="rr_app_name">RR ওয়ালপেপার</string>
 </resources>

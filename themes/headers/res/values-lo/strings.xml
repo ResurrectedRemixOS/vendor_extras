@@ -12,4 +12,24 @@
     <string name="wallpaper_default_name">"ຮູບພື້ນຫຼັງ"</string>
     <string name="sort_by_default_menu">"ຮຽງຕາມຊື່"</string>
     <string name="header_location_local">"ທ້ອງຖິ່ນ"</string>
+    <string name="browse_header">ສ່ວນຫົວ</string>
+    <string name="custom_header_image_notice">ຕັ້ງຮູບສ່ວນຫົວແລ້ວ</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">ຜູ້ສ້າງ:</string>
+    <string name="no_crop_activity_dialog_text">ຕ້ອງມີແອັບ Omni Gallery ເພື່ອຕັ້ງຮູບພື້ນຫຼັງ</string>
+    <string name="no_crop_activity_dialog_title">ບໍ່ພົບ Gallery</string>
+    <string name="scrolling_wall_dialog_text">ຕ້ອງການຕັດຮູບພື້ນຫຼັງໃຫ້ພໍດີກັບຂະໜາດຈໍບໍ?</string>
+    <string name="wallpaper_location_remote">ອອນລາຍ</string>
+    <string name="download_wallpaper_notice">ກຳລັງດາວໂຫຼດຮູບພື້ນຫຼັງ</string>
+    <string name="download_wallpaper_failed_notice">ດາວໂຫຼດຮູບພື້ນຫຼັງລົ້ມເຫຼວ</string>
+    <string name="no_network_message">ບໍ່ມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ</string>
+    <string name="download_wallpaper_list_failed_notice">ໂຫຼດລາຍການຮູບພື້ນຫຼັງລົ້ມເຫຼວ</string>
+    <string name="browse_theme_walls">ຮູບພື້ນຫຼັງຮູບແບບສີສັນ</string>
+    <string name="browse_theme_header">ສ່ວນຫົວຮູບແບບສີສັນ</string>
+    <string name="pick_header">ເລືອກສ່ວນຫົວ</string>
+    <string name="sort_by_creator_menu">ຈັດລຽງຕາມຜູ້ສ້າງ</string>
+    <string name="sort_by_tag_menu">ຈັດລຽງຕາມແທັກ</string>
+    <string name="download_header_notice">ກຳລັງດາວໂຫຼດສ່ວນຫົວ</string>
+    <string name="download_header_failed_notice">ດາວໂຫຼດສ່ວນຫົວລົ້ມເຫຼວ</string>
+    <string name="header_location_online">ອອນລາຍ</string>
 </resources>

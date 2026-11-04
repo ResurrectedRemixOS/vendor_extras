@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"ልጣፍ"</string>
     <string name="sort_by_default_menu">"በስም ለይ"</string>
     <string name="header_location_local">"የአገር ውስጥ"</string>
+    <string name="browse_header">ራስጌዎች</string>
+    <string name="custom_header_image_notice">የራስጌ ምስል ተዘጋጅቷል</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">ፈጣሪ፦</string>
+    <string name="no_crop_activity_dialog_text">ልጣፍ ለማዘጋጀት የOmni Gallery መተግበሪያ ያስፈልጋል</string>
+    <string name="no_crop_activity_dialog_title">ጋለሪ የለም</string>
+    <string name="scrolling_wall_dialog_text">ልጣፉን ከማሳያው መጠን ጋር እንዲመጣጠን መከርከም ይፈልጋሉ?</string>
+    <string name="wallpaper_location_remote">መስመር ላይ</string>
+    <string name="download_wallpaper_notice">ልጣፍ በመውረድ ላይ</string>
+    <string name="download_wallpaper_failed_notice">ልጣፍ ማውረድ አልተሳካም</string>
+    <string name="no_network_message">የአውታረ መረብ ግንኙነት የለም</string>
+    <string name="download_wallpaper_list_failed_notice">የልጣፍ ማውጫን መጫን አልተሳካም</string>
+    <string name="browse_theme_walls">የገፅታ ልጣፎች</string>
+    <string name="browse_theme_header">የገፅታ ራስጌዎች</string>
+    <string name="pick_header">ራስጌዎችን ምረጥ</string>
+    <string name="sort_by_creator_menu">በፈጣሪ ደርድር</string>
+    <string name="sort_by_tag_menu">በመለያ ደርድር</string>
+    <string name="download_header_notice">ራስጌ በመውረድ ላይ</string>
+    <string name="download_header_failed_notice">ራስጌ ማውረድ አልተሳካም</string>
+    <string name="header_location_online">መስመር ላይ</string>
 </resources>

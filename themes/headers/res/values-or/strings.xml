@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"ୱାଲପେପର"</string>
     <string name="sort_by_default_menu">"ନାମ ଦ୍ଵାରା ସର୍ଟ କରନ୍ତୁ"</string>
     <string name="header_location_local">"ସ୍ଥାନୀୟ"</string>
+    <string name="browse_header">ହେଡର</string>
+    <string name="custom_header_image_notice">ହେଡର ଇମେଜ ସେଟ ହୋଇଛି</string>
+    <string name="omni_walls">ୱାଟରସ୍ଲାଇଡସ</string>
+    <string name="header_creator_label">ସୃଷ୍ଟିକର୍ତ୍ତା:</string>
+    <string name="no_crop_activity_dialog_text">ୱାଲପେପର ସେଟ କରିବାକୁ Omni Gallery ଆପ ଆବଶ୍ୟକ</string>
+    <string name="no_crop_activity_dialog_title">ଗ୍ୟାଲେରି ମିଳୁନାହିଁ</string>
+    <string name="scrolling_wall_dialog_text">ୱାଲପେପରକୁ ଡିସପ୍ଲେ ଆକାରରେ କ୍ରପ କରିବେ କି?</string>
+    <string name="scrolling_wall_dialog_title">ୱାଲପେପର କ୍ରପ କରନ୍ତୁ</string>
+    <string name="wallpaper_location_remote">ଅନଲାଇନ</string>
+    <string name="download_wallpaper_notice">ୱାଲପେପର ଡାଉନଲୋଡ ହେଉଛି</string>
+    <string name="download_wallpaper_failed_notice">ୱାଲପେପର ଡାଉନଲୋଡ ବିଫଳ ହେଲା</string>
+    <string name="no_network_message">କୌଣସି ନେଟୱର୍କ ସଂଯୋଗ ନାହିଁ</string>
+    <string name="download_wallpaper_list_failed_notice">ୱାଲପେପର ଡିରେକ୍ଟୋରୀ ଲୋଡ ବିଫଳ ହେଲା</string>
+    <string name="browse_theme_walls">ଥିମ ୱାଲପେପର</string>
+    <string name="browse_theme_header">ଥିମ ହେଡର</string>
+    <string name="pick_header">ହେଡର ବାଛନ୍ତୁ</string>
+    <string name="sort_by_creator_menu">ସୃଷ୍ଟିକର୍ତ୍ତା ଅନୁସାରେ ସଜାନ୍ତୁ</string>
+    <string name="sort_by_tag_menu">ଟ୍ୟାଗ ଅନୁସାରେ ସଜାନ୍ତୁ</string>
+    <string name="download_header_notice">ହେଡର ଡାଉନଲୋଡ ହେଉଛି</string>
+    <string name="download_header_failed_notice">ହେଡର ଡାଉନଲୋଡ ବିଫଳ ହେଲା</string>
+    <string name="header_location_online">ଅନଲାଇନ</string>
 </resources>

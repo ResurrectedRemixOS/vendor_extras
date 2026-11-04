@@ -19,4 +19,5 @@
   <string name="app_name">Slike ozadja CM</string>
   <string name="set_wallpaper">Nastavi sliko ozadja</string>
   <string name="no_wallpaper">Brez slike ozadja</string>
+    <string name="rr_app_name">RR ozadja</string>
 </resources>

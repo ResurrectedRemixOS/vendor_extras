@@ -42,4 +42,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="sort_by_default_menu">"Sorter etter navn"</string>
     <string name="header_location_local">"Lokal"</string>
     <string name="header_location_online">Pålogget</string>
+    <string name="browse_theme_walls">Tema-bakgrunner</string>
+    <string name="browse_theme_header">Tema-topptekster</string>
+    <string name="pick_header">Velg topptekster</string>
+    <string name="sort_by_creator_menu">Sorter etter skaper</string>
+    <string name="sort_by_tag_menu">Sorter etter tagg</string>
+    <string name="download_header_notice">Laster ned topptekst</string>
+    <string name="download_header_failed_notice">Nedlasting av topptekst mislyktes</string>
 </resources>

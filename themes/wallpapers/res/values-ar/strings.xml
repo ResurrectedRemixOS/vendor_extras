@@ -19,4 +19,5 @@
   <string name="app_name">خلفيات شاشة CM</string>
   <string name="set_wallpaper">تعيين خلفية الشاشة</string>
   <string name="no_wallpaper">لا خلفية للشاشة</string>
+    <string name="rr_app_name">خلفيات RR</string>
 </resources>

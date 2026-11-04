@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"کاغذدیواری"</string>
     <string name="sort_by_default_menu">"مرتب سازی براساس نام"</string>
     <string name="header_location_local">"محلی"</string>
+    <string name="browse_header">سربرگ‌ها</string>
+    <string name="custom_header_image_notice">تصویر سربرگ تنظیم شد</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">سازنده:</string>
+    <string name="no_crop_activity_dialog_text">برای تنظیم کاغذدیواری، برنامه گالری Omni لازم است</string>
+    <string name="no_crop_activity_dialog_title">گالری پیدا نشد</string>
+    <string name="scrolling_wall_dialog_text">آیا می‌خواهید کاغذدیواری با اندازه نمایشگر برش داده شود؟</string>
+    <string name="wallpaper_location_remote">آنلاین</string>
+    <string name="download_wallpaper_notice">در حال دانلود کاغذدیواری</string>
+    <string name="download_wallpaper_failed_notice">دانلود کاغذدیواری ناموفق بود</string>
+    <string name="no_network_message">اتصال به شبکه برقرار نیست</string>
+    <string name="download_wallpaper_list_failed_notice">بارگذاری فهرست کاغذدیواری‌ها ناموفق بود</string>
+    <string name="browse_theme_walls">کاغذدیواری‌های زمینه</string>
+    <string name="browse_theme_header">سربرگ‌های زمینه</string>
+    <string name="pick_header">انتخاب سربرگ‌ها</string>
+    <string name="sort_by_creator_menu">مرتب‌سازی بر اساس سازنده</string>
+    <string name="sort_by_tag_menu">مرتب‌سازی بر اساس برچسب</string>
+    <string name="download_header_notice">در حال دانلود سربرگ</string>
+    <string name="download_header_failed_notice">دانلود سربرگ ناموفق بود</string>
+    <string name="header_location_online">آنلاین</string>
 </resources>

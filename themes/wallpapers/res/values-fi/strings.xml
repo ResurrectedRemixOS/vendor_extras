@@ -19,4 +19,5 @@
   <string name="app_name">CM taustakuvat</string>
   <string name="set_wallpaper">Aseta taustakuva</string>
   <string name="no_wallpaper">Ei taustakuvaa</string>
+    <string name="rr_app_name">RR-taustakuvat</string>
 </resources>

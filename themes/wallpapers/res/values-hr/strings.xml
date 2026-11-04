@@ -19,4 +19,5 @@
   <string name="app_name">CM Pozadine</string>
   <string name="set_wallpaper">Postavi pozadinu</string>
   <string name="no_wallpaper">Bez pozadine</string>
+    <string name="rr_app_name">RR pozadine</string>
 </resources>

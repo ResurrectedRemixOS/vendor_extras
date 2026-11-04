@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Тапет"</string>
     <string name="sort_by_default_menu">"Сортиране по име"</string>
     <string name="header_location_local">"В района"</string>
+    <string name="browse_header">Заглавия</string>
+    <string name="custom_header_image_notice">Зададено е изображение на заглавие</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Създател:</string>
+    <string name="no_crop_activity_dialog_text">За да зададете тапет, е необходимо приложението Omni Gallery</string>
+    <string name="no_crop_activity_dialog_title">Галерията липсва</string>
+    <string name="scrolling_wall_dialog_text">Искате ли да изрежете тапета до размера на дисплея?</string>
+    <string name="wallpaper_location_remote">На линия</string>
+    <string name="download_wallpaper_notice">Изтегляне на тапет</string>
+    <string name="download_wallpaper_failed_notice">Изтеглянето на тапета не бе успешно</string>
+    <string name="no_network_message">Няма мрежова връзка</string>
+    <string name="download_wallpaper_list_failed_notice">Зареждането на директорията с тапети не бе успешно</string>
+    <string name="browse_theme_walls">Тапети на темата</string>
+    <string name="browse_theme_header">Заглавия на темата</string>
+    <string name="pick_header">Избор на заглавия</string>
+    <string name="sort_by_creator_menu">Сортиране по създател</string>
+    <string name="sort_by_tag_menu">Сортиране по етикет</string>
+    <string name="download_header_notice">Изтегляне на заглавка</string>
+    <string name="download_header_failed_notice">Изтеглянето на заглавката беше неуспешно</string>
+    <string name="header_location_online">На линия</string>
 </resources>

@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Muurpapier"</string>
     <string name="sort_by_default_menu">"Rangskik volgens naam"</string>
     <string name="header_location_local">"Plaaslik"</string>
+    <string name="browse_header">Opskrifte</string>
+    <string name="custom_header_image_notice">Opskriftbeeld gestel</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Skepper:</string>
+    <string name="no_crop_activity_dialog_text">Omni Gallery-program word benodig om muurpapier te stel</string>
+    <string name="no_crop_activity_dialog_title">Galery ontbreek</string>
+    <string name="scrolling_wall_dialog_text">Wil jy die muurpapier na die skermgrootte uitsny?</string>
+    <string name="wallpaper_location_remote">Aanlyn</string>
+    <string name="download_wallpaper_notice">Laai muurpapier af</string>
+    <string name="download_wallpaper_failed_notice">Aflaai van muurpapier misluk</string>
+    <string name="no_network_message">Geen netwerkverbinding nie</string>
+    <string name="download_wallpaper_list_failed_notice">Laai van muurpapiergids misluk</string>
+    <string name="browse_theme_walls">Temamuurpapiere</string>
+    <string name="browse_theme_header">Temaopskrifte</string>
+    <string name="pick_header">Kies opskrifte</string>
+    <string name="sort_by_creator_menu">Sorteer volgens skepper</string>
+    <string name="sort_by_tag_menu">Sorteer volgens etiket</string>
+    <string name="download_header_notice">Laai opskrif af</string>
+    <string name="download_header_failed_notice">Afla van opskrif misluk</string>
+    <string name="header_location_online">Aanlyn</string>
 </resources>

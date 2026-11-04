@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"వాల్‌పేపర్"</string>
     <string name="sort_by_default_menu">"పేరు ద్వారా వ‌ర్గీక‌రించు"</string>
     <string name="header_location_local">"స్థానికం"</string>
+    <string name="browse_header">హెడర్‌లు</string>
+    <string name="custom_header_image_notice">హెడర్ చిత్రం సెట్ చేయబడింది</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">సృష్టికర్త:</string>
+    <string name="no_crop_activity_dialog_text">వాల్‌పేపర్ సెట్ చేయడానికి Omni Gallery యాప్ అవసరం</string>
+    <string name="no_crop_activity_dialog_title">గ్యాలరీ లేదు</string>
+    <string name="scrolling_wall_dialog_text">వాల్‌పేపర్‌ను డిస్‌ప్లే పరిమాణానికి కత్తిరించాలా?</string>
+    <string name="scrolling_wall_dialog_title">వాల్‌పేపర్‌ను కత్తిరించండి</string>
+    <string name="wallpaper_location_remote">ఆన్‌లైన్</string>
+    <string name="download_wallpaper_notice">వాల్‌పేపర్ డౌన్‌లోడ్ అవుతోంది</string>
+    <string name="download_wallpaper_failed_notice">వాల్‌పేపర్ డౌన్‌లోడ్ విఫలమైంది</string>
+    <string name="no_network_message">నెట్‌వర్క్ కనెక్టివిటీ లేదు</string>
+    <string name="download_wallpaper_list_failed_notice">వాల్‌పేపర్ డైరెక్టరీ లోడ్ విఫలమైంది</string>
+    <string name="browse_theme_walls">థీమ్ వాల్‌పేపర్‌లు</string>
+    <string name="browse_theme_header">థీమ్ హెడర్‌లు</string>
+    <string name="pick_header">హెడర్‌లను ఎంచుకోండి</string>
+    <string name="sort_by_creator_menu">సృష్టికర్త ప్రకారం క్రమబద్ధీకరించండి</string>
+    <string name="sort_by_tag_menu">ట్యాగ్ ప్రకారం క్రమబద్ధీకరించండి</string>
+    <string name="download_header_notice">హెడర్ డౌన్‌లోడ్ అవుతోంది</string>
+    <string name="download_header_failed_notice">హెడర్ డౌన్‌లోడ్ విఫలమైంది</string>
+    <string name="header_location_online">ఆన్‌లైన్</string>
 </resources>

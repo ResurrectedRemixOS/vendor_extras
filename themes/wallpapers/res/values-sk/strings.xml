@@ -19,4 +19,5 @@
   <string name="app_name">CM Tapety</string>
   <string name="set_wallpaper">Nastaviť tapetu</string>
   <string name="no_wallpaper">Žiadne tapety</string>
+    <string name="rr_app_name">Tapety RR</string>
 </resources>

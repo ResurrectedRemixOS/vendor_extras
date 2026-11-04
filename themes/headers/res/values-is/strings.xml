@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"Veggfóður"</string>
     <string name="sort_by_default_menu">"Raða eftir nafni"</string>
     <string name="header_location_local">"Staðbundið"</string>
+    <string name="browse_header">Hausar</string>
+    <string name="custom_header_image_notice">Hausmynd stillt</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Höfundur:</string>
+    <string name="no_crop_activity_dialog_text">Omni Gallery-forritið þarf til að stilla veggfóður</string>
+    <string name="no_crop_activity_dialog_title">Myndasafn vantar</string>
+    <string name="scrolling_wall_dialog_text">Viltu klippa veggfóðurið að stærð skjásins?</string>
+    <string name="scrolling_wall_dialog_title">Klippa veggfóður</string>
+    <string name="wallpaper_location_remote">Á netinu</string>
+    <string name="download_wallpaper_notice">Sæki veggfóður</string>
+    <string name="download_wallpaper_failed_notice">Niðurhal veggfóðurs mistókst</string>
+    <string name="no_network_message">Engin nettenging</string>
+    <string name="download_wallpaper_list_failed_notice">Villa við hleðslu veggfóðursmöppu</string>
+    <string name="browse_theme_walls">Veggfóður þema</string>
+    <string name="browse_theme_header">Hausmyndir þema</string>
+    <string name="pick_header">Veldu hausmyndir</string>
+    <string name="sort_by_creator_menu">Raða eftir höfundi</string>
+    <string name="sort_by_tag_menu">Raða eftir merki</string>
+    <string name="download_header_notice">Sæki hausmynd</string>
+    <string name="download_header_failed_notice">Villa við niðurhal hausmyndar</string>
+    <string name="header_location_online">Á netinu</string>
 </resources>

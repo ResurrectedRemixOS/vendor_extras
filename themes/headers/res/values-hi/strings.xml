@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"वॉलपेपर"</string>
     <string name="sort_by_default_menu">"नाम के हिसाब से क्रम से लगाएं"</string>
     <string name="header_location_local">"स्थानीय"</string>
+    <string name="browse_header">हेडर</string>
+    <string name="custom_header_image_notice">हेडर इमेज सेट हो गई</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">क्रिएटर:</string>
+    <string name="no_crop_activity_dialog_text">वॉलपेपर सेट करने के लिए Omni Gallery ऐप आवश्यक है</string>
+    <string name="no_crop_activity_dialog_title">गैलरी नहीं मिली</string>
+    <string name="scrolling_wall_dialog_text">क्या आप वॉलपेपर को डिस्प्ले के आकार में क्रॉप करना चाहते हैं?</string>
+    <string name="wallpaper_location_remote">ऑनलाइन</string>
+    <string name="download_wallpaper_notice">वॉलपेपर डाउनलोड हो रहा है</string>
+    <string name="download_wallpaper_failed_notice">वॉलपेपर डाउनलोड विफल रहा</string>
+    <string name="no_network_message">नेटवर्क कनेक्शन नहीं है</string>
+    <string name="download_wallpaper_list_failed_notice">वॉलपेपर डायरेक्टरी लोड करना विफल रहा</string>
+    <string name="browse_theme_walls">थीम वॉलपेपर</string>
+    <string name="browse_theme_header">थीम हेडर</string>
+    <string name="pick_header">हेडर चुनें</string>
+    <string name="sort_by_creator_menu">क्रिएटर के अनुसार क्रमबद्ध करें</string>
+    <string name="sort_by_tag_menu">टैग के अनुसार क्रमबद्ध करें</string>
+    <string name="download_header_notice">हेडर डाउनलोड हो रहा है</string>
+    <string name="download_header_failed_notice">हेडर डाउनलोड विफल रहा</string>
+    <string name="header_location_online">ऑनलाइन</string>
 </resources>

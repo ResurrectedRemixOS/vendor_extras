@@ -42,4 +42,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="sort_by_default_menu">"Упорядочить по названию"</string>
     <string name="header_location_local">"Местные"</string>
     <string name="header_location_online">Онлайн</string>
+    <string name="browse_theme_walls">Обои темы</string>
+    <string name="browse_theme_header">Заголовки темы</string>
+    <string name="pick_header">Выбор заголовков</string>
+    <string name="sort_by_creator_menu">Сортировать по автору</string>
+    <string name="sort_by_tag_menu">Сортировать по тегу</string>
+    <string name="download_header_notice">Загрузка заголовка</string>
+    <string name="download_header_failed_notice">Не удалось загрузить заголовок</string>
 </resources>

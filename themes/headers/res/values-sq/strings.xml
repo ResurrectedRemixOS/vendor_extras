@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"Imazhi i sfondit"</string>
     <string name="sort_by_default_menu">"Rendit sipas emrit"</string>
     <string name="header_location_local">"Lokal"</string>
+    <string name="browse_header">Kokat</string>
+    <string name="custom_header_image_notice">Imazhi i kokës u vendos</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Krijuesi:</string>
+    <string name="no_crop_activity_dialog_text">Aplikacioni Omni Gallery kërkohet për të vendosur imazhin e sfondit</string>
+    <string name="no_crop_activity_dialog_title">Galeria mungon</string>
+    <string name="scrolling_wall_dialog_text">Dëshiron ta prerësh imazhin e sfondit sipas madhësisë së ekranit?</string>
+    <string name="scrolling_wall_dialog_title">Prit imazhin e sfondit</string>
+    <string name="wallpaper_location_remote">Në linjë</string>
+    <string name="download_wallpaper_notice">Po shkarkohet imazhi i sfondit</string>
+    <string name="download_wallpaper_failed_notice">Shkarkimi i imazhit të sfondit dështoi</string>
+    <string name="no_network_message">Nuk ka lidhje me rrjetin</string>
+    <string name="download_wallpaper_list_failed_notice">Ngarkimi i drejtorisë së imazheve dështoi</string>
+    <string name="browse_theme_walls">Imazhet e sfondit të temës</string>
+    <string name="browse_theme_header">Kokat e temës</string>
+    <string name="pick_header">Zgjidh kokat</string>
+    <string name="sort_by_creator_menu">Rendit sipas krijuesit</string>
+    <string name="sort_by_tag_menu">Rendit sipas etiketës</string>
+    <string name="download_header_notice">Po shkarkohet koka</string>
+    <string name="download_header_failed_notice">Shkarkimi i kokës dështoi</string>
+    <string name="header_location_online">Në linjë</string>
 </resources>

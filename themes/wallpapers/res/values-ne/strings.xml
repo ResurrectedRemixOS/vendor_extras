@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="set_wallpaper">"वालपेपर राख्नुहोस्"</string>
+    <string name="rr_app_name">RR वालपेपरहरू</string>
+    <string name="no_wallpaper">कुनै वालपेपर छैन</string>
 </resources>

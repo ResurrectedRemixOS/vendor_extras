@@ -19,4 +19,5 @@
   <string name="app_name">Imagini de fundal CM</string>
   <string name="set_wallpaper">Setați imaginea de fundal</string>
   <string name="no_wallpaper">Fără imagine de fundal</string>
+    <string name="rr_app_name">Imagini de fundal RR</string>
 </resources>

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="set_wallpaper">"Velja veggfóður"</string>
+    <string name="rr_app_name">RR veggfóður</string>
+    <string name="no_wallpaper">Ekkert veggfóður</string>
 </resources>

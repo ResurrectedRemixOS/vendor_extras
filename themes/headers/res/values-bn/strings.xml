@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"ওয়ালপেপার"</string>
     <string name="sort_by_default_menu">"নাম অনুসারে সাজান"</string>
     <string name="header_location_local">"স্থানীয়"</string>
+    <string name="browse_header">হেডার</string>
+    <string name="custom_header_image_notice">হেডার ইমেজ সেট করা হয়েছে</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">নির্মাতা:</string>
+    <string name="no_crop_activity_dialog_text">ওয়ালপেপার সেট করতে Omni Gallery অ্যাপ প্রয়োজন</string>
+    <string name="no_crop_activity_dialog_title">গ্যালারি নেই</string>
+    <string name="scrolling_wall_dialog_text">ওয়ালপেপারটি ডিসপ্লের আকারে ক্রপ করতে চান?</string>
+    <string name="scrolling_wall_dialog_title">ওয়ালপেপার ক্রপ করুন</string>
+    <string name="wallpaper_location_remote">অনলাইন</string>
+    <string name="download_wallpaper_notice">ওয়ালপেপার ডাউনলোড হচ্ছে</string>
+    <string name="download_wallpaper_failed_notice">ওয়ালপেপার ডাউনলোড ব্যর্থ হয়েছে</string>
+    <string name="no_network_message">কোনো নেটওয়ার্ক সংযোগ নেই</string>
+    <string name="download_wallpaper_list_failed_notice">ওয়ালপেপার ডিরেক্টরি লোড ব্যর্থ হয়েছে</string>
+    <string name="browse_theme_walls">থিমের ওয়ালপেপার</string>
+    <string name="browse_theme_header">থিমের হেডার</string>
+    <string name="pick_header">হেডার নির্বাচন করুন</string>
+    <string name="sort_by_creator_menu">নির্মাতা অনুযায়ী সাজান</string>
+    <string name="sort_by_tag_menu">ট্যাগ অনুযায়ী সাজান</string>
+    <string name="download_header_notice">হেডার ডাউনলোড হচ্ছে</string>
+    <string name="download_header_failed_notice">হেডার ডাউনলোড ব্যর্থ হয়েছে</string>
+    <string name="header_location_online">অনলাইন</string>
 </resources>

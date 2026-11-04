@@ -19,4 +19,5 @@
   <string name="app_name">सीएम वॉलपेपर</string>
   <string name="set_wallpaper">वॉलपेपर सेट करें</string>
   <string name="no_wallpaper">कोई वॉलपेपर नहीं</string>
+    <string name="rr_app_name">RR वॉलपेपर</string>
 </resources>

@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Позадина"</string>
     <string name="sort_by_default_menu">"Сортирај према имену"</string>
     <string name="header_location_local">"Локално"</string>
+    <string name="browse_header">Заглавља</string>
+    <string name="custom_header_image_notice">Слика заглавља постављена</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Аутор:</string>
+    <string name="no_crop_activity_dialog_text">За постављање позадине потребна је апликација Omni Gallery</string>
+    <string name="no_crop_activity_dialog_title">Галерија није пронађена</string>
+    <string name="scrolling_wall_dialog_text">Желите ли да исечете позадину на величину екрана?</string>
+    <string name="wallpaper_location_remote">Онлајн</string>
+    <string name="download_wallpaper_notice">Преузимање позадине</string>
+    <string name="download_wallpaper_failed_notice">Преузимање позадине није успело</string>
+    <string name="no_network_message">Нема мрежне везе</string>
+    <string name="download_wallpaper_list_failed_notice">Учитавање директоријума позадина није успело</string>
+    <string name="browse_theme_walls">Позадине тема</string>
+    <string name="browse_theme_header">Заглавља тема</string>
+    <string name="pick_header">Изаберите заглавља</string>
+    <string name="sort_by_creator_menu">Сортирај по аутору</string>
+    <string name="sort_by_tag_menu">Сортирај по ознаци</string>
+    <string name="download_header_notice">Преузимање заглавља</string>
+    <string name="download_header_failed_notice">Преузимање заглавља није успело</string>
+    <string name="header_location_online">Онлајн</string>
 </resources>

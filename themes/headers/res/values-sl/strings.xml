@@ -42,4 +42,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="sort_by_default_menu">"Razvrsti po imenu"</string>
     <string name="header_location_local">"Lokalno"</string>
     <string name="header_location_online">Na spletu</string>
+    <string name="browse_theme_walls">Teme ozadij</string>
+    <string name="browse_theme_header">Teme glav</string>
+    <string name="pick_header">Izberi glave</string>
+    <string name="sort_by_creator_menu">Razvrsti po ustvarjalcu</string>
+    <string name="sort_by_tag_menu">Razvrsti po oznaki</string>
+    <string name="download_header_notice">Prenašanje glave</string>
+    <string name="download_header_failed_notice">Prenos glave ni uspel</string>
 </resources>

@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"الخلفية"</string>
     <string name="sort_by_default_menu">"ترتيب حسب الاسم"</string>
     <string name="header_location_local">"محلي"</string>
+    <string name="browse_header">الترويسات</string>
+    <string name="custom_header_image_notice">تم تعيين صورة الترويسة</string>
+    <string name="omni_walls">شرائح مائية</string>
+    <string name="header_creator_label">المنشئ:</string>
+    <string name="no_crop_activity_dialog_text">يلزم تطبيق معرض Omni لتعيين الخلفية</string>
+    <string name="no_crop_activity_dialog_title">المعرض غير موجود</string>
+    <string name="scrolling_wall_dialog_text">هل تريد اقتصاص الخلفية لتناسب حجم الشاشة؟</string>
+    <string name="wallpaper_location_remote">متصل</string>
+    <string name="download_wallpaper_notice">جارٍ تنزيل الخلفية</string>
+    <string name="download_wallpaper_failed_notice">فشل تنزيل الخلفية</string>
+    <string name="no_network_message">لا يوجد اتصال بالشبكة</string>
+    <string name="download_wallpaper_list_failed_notice">فشل تحميل دليل الخلفيات</string>
+    <string name="browse_theme_walls">خلفيات المظهر</string>
+    <string name="browse_theme_header">ترويسات المظهر</string>
+    <string name="pick_header">اختر الترويسات</string>
+    <string name="sort_by_creator_menu">ترتيب حسب المنشئ</string>
+    <string name="sort_by_tag_menu">ترتيب حسب الوسم</string>
+    <string name="download_header_notice">جارٍ تنزيل الترويسة</string>
+    <string name="download_header_failed_notice">فشل تنزيل الترويسة</string>
+    <string name="header_location_online">متصل</string>
 </resources>

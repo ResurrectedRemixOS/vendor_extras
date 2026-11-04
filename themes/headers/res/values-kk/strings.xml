@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"Тұсқағаз"</string>
     <string name="sort_by_default_menu">"Атауы бойынша сұрыптау"</string>
     <string name="header_location_local">"Жергілікті"</string>
+    <string name="browse_header">Тақырыптар</string>
+    <string name="custom_header_image_notice">Тақырып суреті орнатылды</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Авторы:</string>
+    <string name="no_crop_activity_dialog_text">Тұсқағазды орнату үшін Omni Gallery қолданбасы қажет</string>
+    <string name="no_crop_activity_dialog_title">Галерея табылмады</string>
+    <string name="scrolling_wall_dialog_text">Тұсқағазды экран өлшеміне кесуді қалайсыз ба?</string>
+    <string name="scrolling_wall_dialog_title">Тұсқағазды кесу</string>
+    <string name="wallpaper_location_remote">Желіде</string>
+    <string name="download_wallpaper_notice">Тұсқағаз жүктелуде</string>
+    <string name="download_wallpaper_failed_notice">Тұсқағазды жүктеу сәтсіз аяқталды</string>
+    <string name="no_network_message">Желі байланысы жоқ</string>
+    <string name="download_wallpaper_list_failed_notice">Тұсқағаздар каталогын жүктеу сәтсіз аяқталды</string>
+    <string name="browse_theme_walls">Тақырып тұсқағаздары</string>
+    <string name="browse_theme_header">Тақырып тақырыптары</string>
+    <string name="pick_header">Тақырыптарды таңдау</string>
+    <string name="sort_by_creator_menu">Авторы бойынша сұрыптау</string>
+    <string name="sort_by_tag_menu">Белгі бойынша сұрыптау</string>
+    <string name="download_header_notice">Тақырып жүктелуде</string>
+    <string name="download_header_failed_notice">Тақырыпты жүктеу сәтсіз аяқталды</string>
+    <string name="header_location_online">Желіде</string>
 </resources>

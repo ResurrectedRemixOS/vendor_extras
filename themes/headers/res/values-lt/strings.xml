@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Ekrano fonas"</string>
     <string name="sort_by_default_menu">"Rūšiuoti pagal pavadinimą"</string>
     <string name="header_location_local">"Vietinis"</string>
+    <string name="browse_header">Antraštės</string>
+    <string name="custom_header_image_notice">Antraštės vaizdas nustatytas</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Autorius:</string>
+    <string name="no_crop_activity_dialog_text">Norint nustatyti ekrano foną, reikia Omni Galerijos programos</string>
+    <string name="no_crop_activity_dialog_title">Galerija nerasta</string>
+    <string name="scrolling_wall_dialog_text">Ar norite ekrano foną apkirpti pagal ekrano dydį?</string>
+    <string name="wallpaper_location_remote">Prisijungta</string>
+    <string name="download_wallpaper_notice">Atsisiunčiamas ekrano fonas</string>
+    <string name="download_wallpaper_failed_notice">Ekrano fono atsisiųsti nepavyko</string>
+    <string name="no_network_message">Nėra tinklo ryšio</string>
+    <string name="download_wallpaper_list_failed_notice">Ekrano fonų katalogo įkelti nepavyko</string>
+    <string name="browse_theme_walls">Temos ekrano fonai</string>
+    <string name="browse_theme_header">Temos antraštės</string>
+    <string name="pick_header">Pasirinkti antraštes</string>
+    <string name="sort_by_creator_menu">Rikiuoti pagal autorių</string>
+    <string name="sort_by_tag_menu">Rikiuoti pagal žymą</string>
+    <string name="download_header_notice">Atsisiunčiama antraštė</string>
+    <string name="download_header_failed_notice">Antraštės atsisiųsti nepavyko</string>
+    <string name="header_location_online">Prisijungta</string>
 </resources>

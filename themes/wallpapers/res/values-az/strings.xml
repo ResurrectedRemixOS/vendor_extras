@@ -2,4 +2,5 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="set_wallpaper">"Divar kağızı seçin"</string>
     <string name="no_wallpaper">Heç bir divar şәkili</string>
+    <string name="rr_app_name">RR divar kağızları</string>
 </resources>

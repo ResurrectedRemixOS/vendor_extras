@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"ৱালপেপাৰ"</string>
     <string name="sort_by_default_menu">"নাম অনুসৰি ক্ৰমবদ্ধ কৰক"</string>
     <string name="header_location_local">"স্থানীয়"</string>
+    <string name="browse_header">শীৰ্ষক</string>
+    <string name="custom_header_image_notice">শীৰ্ষক ছবি ছেট কৰা হৈছে</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">সৃজনকাৰী:</string>
+    <string name="no_crop_activity_dialog_text">ৱালপেপাৰ ছেট কৰিবলৈ Omni Gallery এপ প্ৰয়োজন</string>
+    <string name="no_crop_activity_dialog_title">গেলাৰী নাই</string>
+    <string name="scrolling_wall_dialog_text">ৱালপেপাৰটো ডিছপ্লেৰ আকাৰলৈ কাটিব খোজে নেকি?</string>
+    <string name="scrolling_wall_dialog_title">ৱালপেপাৰ কাটক</string>
+    <string name="wallpaper_location_remote">অনলাইন</string>
+    <string name="download_wallpaper_notice">ৱালপেপাৰ ডাউনলোড কৰি আছে</string>
+    <string name="download_wallpaper_failed_notice">ৱালপেপাৰ ডাউনলোড ব্যৰ্থ হ\'ল</string>
+    <string name="no_network_message">নেটৱৰ্ক সংযোগ নাই</string>
+    <string name="download_wallpaper_list_failed_notice">ৱালপেপাৰৰ ডিৰেক্টৰি লোড ব্যৰ্থ হ\'ল</string>
+    <string name="browse_theme_walls">থীমৰ ৱালপেপাৰ</string>
+    <string name="browse_theme_header">থীমৰ শীৰ্ষক</string>
+    <string name="pick_header">শীৰ্ষক বাছনি কৰক</string>
+    <string name="sort_by_creator_menu">সৃজনকাৰী অনুসৰে সজাওক</string>
+    <string name="sort_by_tag_menu">টেগ অনুসৰে সজাওক</string>
+    <string name="download_header_notice">শীৰ্ষক ডাউনলোড কৰি আছে</string>
+    <string name="download_header_failed_notice">শীৰ্ষক ডাউনলোড ব্যৰ্থ হ\'ল</string>
+    <string name="header_location_online">অনলাইন</string>
 </resources>

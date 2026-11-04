@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"ფონი"</string>
     <string name="sort_by_default_menu">"სორტირება სახელის მიხედვით"</string>
     <string name="header_location_local">"ადგილობრივი"</string>
+    <string name="browse_header">სათაურები</string>
+    <string name="custom_header_image_notice">სათაურის სურათი დაყენებულია</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">ავტორი:</string>
+    <string name="no_crop_activity_dialog_text">ფონის დასაყენებლად საჭიროა Omni Gallery აპლიკაცია</string>
+    <string name="no_crop_activity_dialog_title">გალერეა არ არის</string>
+    <string name="scrolling_wall_dialog_text">გსურთ ფონის ეკრანის ზომამდე მოჭრა?</string>
+    <string name="wallpaper_location_remote">ონლაინ</string>
+    <string name="download_wallpaper_notice">ფონის ჩამოტვირთვა</string>
+    <string name="download_wallpaper_failed_notice">ფონის ჩამოტვირთვა ვერ მოხერხდა</string>
+    <string name="no_network_message">ქსელთან კავშირი არ არის</string>
+    <string name="download_wallpaper_list_failed_notice">ფონების კატალოგის ჩატვირთვა ვერ მოხერხდა</string>
+    <string name="browse_theme_walls">თემის ფონები</string>
+    <string name="browse_theme_header">თემის სათაურები</string>
+    <string name="pick_header">აირჩიეთ სათაურები</string>
+    <string name="sort_by_creator_menu">დალაგება ავტორის მიხედვით</string>
+    <string name="sort_by_tag_menu">დალაგება ტეგის მიხედვით</string>
+    <string name="download_header_notice">სათაურის ჩამოტვირთვა</string>
+    <string name="download_header_failed_notice">სათაურის ჩამოტვირთვა ვერ მოხერხდა</string>
+    <string name="header_location_online">ონლაინ</string>
 </resources>

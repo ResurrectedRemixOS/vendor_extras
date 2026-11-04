@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"വാൾപേപ്പർ"</string>
     <string name="sort_by_default_menu">"പേര് പ്രകാരം അടുക്കുക"</string>
     <string name="header_location_local">"പ്രാദേശികം"</string>
+    <string name="browse_header">ഹെഡറുകൾ</string>
+    <string name="custom_header_image_notice">ഹെഡർ ചിത്രം സജ്ജമാക്കി</string>
+    <string name="omni_walls">വാട്ടർസ്ലൈഡ്സ്</string>
+    <string name="header_creator_label">സൃഷ്ടാവ്:</string>
+    <string name="no_crop_activity_dialog_text">വാൾപേപ്പർ സജ്ജമാക്കാൻ Omni Gallery ആപ്പ് ആവശ്യമാണ്</string>
+    <string name="no_crop_activity_dialog_title">ഗാലറി കാണുന്നില്ല</string>
+    <string name="scrolling_wall_dialog_text">വാൾപേപ്പർ ഡിസ്പ്ലേ വലുപ്പത്തിലേക്ക് ക്രോപ്പ് ചെയ്യണോ?</string>
+    <string name="scrolling_wall_dialog_title">വാൾപേപ്പർ ക്രോപ്പ് ചെയ്യുക</string>
+    <string name="wallpaper_location_remote">ഓൺലൈൻ</string>
+    <string name="download_wallpaper_notice">വാൾപേപ്പർ ഡൗൺലോഡ് ചെയ്യുന്നു</string>
+    <string name="download_wallpaper_failed_notice">വാൾപേപ്പർ ഡൗൺലോഡ് പരാജയപ്പെട്ടു</string>
+    <string name="no_network_message">നെറ്റ്‌വർക്ക് കണക്ഷൻ ഇല്ല</string>
+    <string name="download_wallpaper_list_failed_notice">വാൾപേപ്പർ ഡയറക്ടറി ലോഡ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു</string>
+    <string name="browse_theme_walls">തീം വാൾപേപ്പറുകൾ</string>
+    <string name="browse_theme_header">തീം ഹെഡറുകൾ</string>
+    <string name="pick_header">ഹെഡറുകൾ തിരഞ്ഞെടുക്കുക</string>
+    <string name="sort_by_creator_menu">സൃഷ്ടാവ് അനുസരിച്ച് അടുക്കുക</string>
+    <string name="sort_by_tag_menu">ടാഗ് അനുസരിച്ച് അടുക്കുക</string>
+    <string name="download_header_notice">ഹെഡർ ഡൗൺലോഡ് ചെയ്യുന്നു</string>
+    <string name="download_header_failed_notice">ഹെഡർ ഡൗൺലോഡ് പരാജയപ്പെട്ടു</string>
+    <string name="header_location_online">ഓൺലൈൻ</string>
 </resources>

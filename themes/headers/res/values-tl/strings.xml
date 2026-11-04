@@ -26,4 +26,27 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_location_local">"Lokal"</string>
     <string name="sort_by_default_menu">"Isaayos ayon sa pangalan"</string>
     <string name="header_location_local">"Lokal"</string>
+    <string name="browse_header">Headers</string>
+    <string name="custom_header_image_notice">Nakatakda na ang header image</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="wallpaper_type_system">Home screen</string>
+    <string name="wallpaper_type_lock">Lock screen</string>
+    <string name="header_creator_label">Creator:</string>
+    <string name="no_crop_activity_dialog_text">Kailangan ang Omni Gallery app para magtakda ng wallpaper</string>
+    <string name="no_crop_activity_dialog_title">Nawawala ang Gallery</string>
+    <string name="scrolling_wall_dialog_text">Gusto mo bang i-crop ang wallpaper sa laki ng display?</string>
+    <string name="wallpaper_location_remote">Online</string>
+    <string name="download_wallpaper_notice">Dina-download ang wallpaper</string>
+    <string name="download_wallpaper_failed_notice">Nabigo ang pag-download ng wallpaper</string>
+    <string name="no_network_message">Walang koneksyon sa network</string>
+    <string name="download_wallpaper_list_failed_notice">Nabigo ang pag-load ng wallpaper directory</string>
+    <string name="wallpaper_default_name">Wallpaper</string>
+    <string name="browse_theme_walls">Mga wallpaper ng tema</string>
+    <string name="browse_theme_header">Mga header ng tema</string>
+    <string name="pick_header">Pumili ng mga header</string>
+    <string name="sort_by_creator_menu">Ayusin ayon sa creator</string>
+    <string name="sort_by_tag_menu">Ayusin ayon sa tag</string>
+    <string name="download_header_notice">Dina-download ang header</string>
+    <string name="download_header_failed_notice">Nabigo ang pag-download ng header</string>
+    <string name="header_location_online">Online</string>
 </resources>

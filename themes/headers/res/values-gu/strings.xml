@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"વૉલપેપર"</string>
     <string name="sort_by_default_menu">"નામ દ્વારા સૉર્ટ કરો"</string>
     <string name="header_location_local">"સ્થાનિક"</string>
+    <string name="browse_header">હેડર</string>
+    <string name="custom_header_image_notice">હેડર ઇમેજ સેટ થઈ</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">ક્રિએટર:</string>
+    <string name="no_crop_activity_dialog_text">વૉલપેપર સેટ કરવા Omni Gallery ઍપ જરૂરી છે</string>
+    <string name="no_crop_activity_dialog_title">ગૅલેરી મળી નથી</string>
+    <string name="scrolling_wall_dialog_text">શું વૉલપેપરને ડિસ્પ્લેના કદ પ્રમાણે કાપવું છે?</string>
+    <string name="scrolling_wall_dialog_title">વૉલપેપર કાપો</string>
+    <string name="wallpaper_location_remote">ઑનલાઇન</string>
+    <string name="download_wallpaper_notice">વૉલપેપર ડાઉનલોડ થઈ રહ્યું છે</string>
+    <string name="download_wallpaper_failed_notice">વૉલપેપર ડાઉનલોડ નિષ્ફળ</string>
+    <string name="no_network_message">નેટવર્ક કનેક્ટિવિટી નથી</string>
+    <string name="download_wallpaper_list_failed_notice">વૉલપેપર ડિરેક્ટરી લોડ નિષ્ફળ</string>
+    <string name="browse_theme_walls">થીમ વૉલપેપર</string>
+    <string name="browse_theme_header">થીમ હેડર</string>
+    <string name="pick_header">હેડર પસંદ કરો</string>
+    <string name="sort_by_creator_menu">ક્રિએટર પ્રમાણે ક્રમ</string>
+    <string name="sort_by_tag_menu">ટૅગ પ્રમાણે ક્રમ</string>
+    <string name="download_header_notice">હેડર ડાઉનલોડ થઈ રહ્યું છે</string>
+    <string name="download_header_failed_notice">હેડર ડાઉનલોડ નિષ્ફળ</string>
+    <string name="header_location_online">ઑનલાઇન</string>
 </resources>

@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Hiasan latar"</string>
     <string name="sort_by_default_menu">"Isih mengikut nama"</string>
     <string name="header_location_local">"Tempatan"</string>
+    <string name="browse_header">Pengepala</string>
+    <string name="custom_header_image_notice">Imej pengepala ditetapkan</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Pencipta:</string>
+    <string name="no_crop_activity_dialog_text">Apl Omni Gallery diperlukan untuk menetapkan hiasan latar</string>
+    <string name="no_crop_activity_dialog_title">Galeri tiada</string>
+    <string name="scrolling_wall_dialog_text">Adakah anda mahu memotong hiasan latar mengikut saiz paparan?</string>
+    <string name="wallpaper_location_remote">Dalam talian</string>
+    <string name="download_wallpaper_notice">Memuat turun hiasan latar</string>
+    <string name="download_wallpaper_failed_notice">Gagal memuat turun hiasan latar</string>
+    <string name="no_network_message">Tiada sambungan rangkaian</string>
+    <string name="download_wallpaper_list_failed_notice">Gagal memuatkan direktori hiasan latar</string>
+    <string name="browse_theme_walls">Hiasan latar tema</string>
+    <string name="browse_theme_header">Pengepala tema</string>
+    <string name="pick_header">Pilih pengepala</string>
+    <string name="sort_by_creator_menu">Isih mengikut pencipta</string>
+    <string name="sort_by_tag_menu">Isih mengikut tag</string>
+    <string name="download_header_notice">Memuat turun pengepala</string>
+    <string name="download_header_failed_notice">Gagal memuat turun pengepala</string>
+    <string name="header_location_online">Dalam talian</string>
 </resources>

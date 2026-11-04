@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"ਵਾਲਪੇਪਰ"</string>
     <string name="sort_by_default_menu">"ਨਾਮ ਮੁਤਾਬਕ ਕ੍ਰਮ-ਬੱਧ ਕਰੋ"</string>
     <string name="header_location_local">"ਸਥਾਨਕ"</string>
+    <string name="browse_header">ਹੈੱਡਰ</string>
+    <string name="custom_header_image_notice">ਹੈੱਡਰ ਚਿੱਤਰ ਸੈੱਟ ਹੋ ਗਿਆ</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">ਸਿਰਜਣਹਾਰ:</string>
+    <string name="no_crop_activity_dialog_text">ਵਾਲਪੇਪਰ ਸੈੱਟ ਕਰਨ ਲਈ Omni Gallery ਐਪ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="no_crop_activity_dialog_title">ਗੈਲਰੀ ਨਹੀਂ ਮਿਲੀ</string>
+    <string name="scrolling_wall_dialog_text">ਕੀ ਤੁਸੀਂ ਵਾਲਪੇਪਰ ਨੂੰ ਡਿਸਪਲੇ ਦੇ ਆਕਾਰ ਵਿੱਚ ਕੱਟਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="scrolling_wall_dialog_title">ਵਾਲਪੇਪਰ ਕੱਟੋ</string>
+    <string name="wallpaper_location_remote">ਔਨਲਾਈਨ</string>
+    <string name="download_wallpaper_notice">ਵਾਲਪੇਪਰ ਡਾਊਨਲੋਡ ਹੋ ਰਿਹਾ ਹੈ</string>
+    <string name="download_wallpaper_failed_notice">ਵਾਲਪੇਪਰ ਡਾਊਨਲੋਡ ਅਸਫਲ ਹੋਇਆ</string>
+    <string name="no_network_message">ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ</string>
+    <string name="download_wallpaper_list_failed_notice">ਵਾਲਪੇਪਰ ਡਾਇਰੈਕਟਰੀ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
+    <string name="browse_theme_walls">ਥੀਮ ਵਾਲਪੇਪਰ</string>
+    <string name="browse_theme_header">ਥੀਮ ਹੈੱਡਰ</string>
+    <string name="pick_header">ਹੈੱਡਰ ਚੁਣੋ</string>
+    <string name="sort_by_creator_menu">ਸਿਰਜਣਹਾਰ ਅਨੁਸਾਰ ਕ੍ਰਮ</string>
+    <string name="sort_by_tag_menu">ਟੈਗ ਅਨੁਸਾਰ ਕ੍ਰਮ</string>
+    <string name="download_header_notice">ਹੈੱਡਰ ਡਾਊਨਲੋਡ ਹੋ ਰਿਹਾ ਹੈ</string>
+    <string name="download_header_failed_notice">ਹੈੱਡਰ ਡਾਊਨਲੋਡ ਅਸਫਲ ਹੋਇਆ</string>
+    <string name="header_location_online">ਔਨਲਾਈਨ</string>
 </resources>

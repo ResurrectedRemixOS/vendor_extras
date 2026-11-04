@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Fona tapete"</string>
     <string name="sort_by_default_menu">"Kārtot pēc nosaukuma"</string>
     <string name="header_location_local">"Vietējās"</string>
+    <string name="browse_header">Galvenes</string>
+    <string name="custom_header_image_notice">Galvenes attēls iestatīts</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Autors:</string>
+    <string name="no_crop_activity_dialog_text">Lai iestatītu tapeti, nepieciešama Omni Gallery lietotne</string>
+    <string name="no_crop_activity_dialog_title">Galerija nav atrasta</string>
+    <string name="scrolling_wall_dialog_text">Vai vēlaties apgriezt tapeti līdz ekrāna izmēram?</string>
+    <string name="wallpaper_location_remote">Tiešsaistē</string>
+    <string name="download_wallpaper_notice">Tapetes lejupielāde</string>
+    <string name="download_wallpaper_failed_notice">Tapetes lejupielāde neizdevās</string>
+    <string name="no_network_message">Nav tīkla savienojuma</string>
+    <string name="download_wallpaper_list_failed_notice">Tapešu direktorijas ielāde neizdevās</string>
+    <string name="browse_theme_walls">Motīva tapetes</string>
+    <string name="browse_theme_header">Motīva galvenes</string>
+    <string name="pick_header">Atlasīt galvenes</string>
+    <string name="sort_by_creator_menu">Kārtot pēc autora</string>
+    <string name="sort_by_tag_menu">Kārtot pēc tagiem</string>
+    <string name="download_header_notice">Galvenes lejupielāde</string>
+    <string name="download_header_failed_notice">Galvenes lejupielāde neizdevās</string>
+    <string name="header_location_online">Tiešsaistē</string>
 </resources>

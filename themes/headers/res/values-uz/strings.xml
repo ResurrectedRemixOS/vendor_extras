@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"Fon rasmi"</string>
     <string name="sort_by_default_menu">"Nomi asosida saralash"</string>
     <string name="header_location_local">"Mahalliy"</string>
+    <string name="browse_header">Sarlavhalar</string>
+    <string name="custom_header_image_notice">Sarlavha rasmi o‘rnatildi</string>
+    <string name="omni_walls">Slaydlar</string>
+    <string name="header_creator_label">Muallif:</string>
+    <string name="no_crop_activity_dialog_text">Fon rasmini o‘rnatish uchun Omni Gallery ilovasi kerak</string>
+    <string name="no_crop_activity_dialog_title">Galereya topilmadi</string>
+    <string name="scrolling_wall_dialog_text">Fon rasmini ekran hajmiga kesilsinmi?</string>
+    <string name="scrolling_wall_dialog_title">Fon rasmini kesish</string>
+    <string name="wallpaper_location_remote">Onlayn</string>
+    <string name="download_wallpaper_notice">Fon rasmi yuklab olinmoqda</string>
+    <string name="download_wallpaper_failed_notice">Fon rasmini yuklab bo‘lmadi</string>
+    <string name="no_network_message">Tarmoq ulanishi yo‘q</string>
+    <string name="download_wallpaper_list_failed_notice">Fon rasmlari katalogini yuklab bo‘lmadi</string>
+    <string name="browse_theme_walls">Mavzu fon rasmlari</string>
+    <string name="browse_theme_header">Mavzu sarlavhalari</string>
+    <string name="pick_header">Sarlavhalarni tanlang</string>
+    <string name="sort_by_creator_menu">Muallif bo‘yicha saralash</string>
+    <string name="sort_by_tag_menu">Teg bo‘yicha saralash</string>
+    <string name="download_header_notice">Sarlavha yuklab olinmoqda</string>
+    <string name="download_header_failed_notice">Sarlavhani yuklab bo‘lmadi</string>
+    <string name="header_location_online">Onlayn</string>
 </resources>

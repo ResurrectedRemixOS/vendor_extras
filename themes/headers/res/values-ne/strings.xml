@@ -28,4 +28,25 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"वालपेपर"</string>
     <string name="sort_by_default_menu">"नामअनुसार क्रमबद्ध गर्नुहोस्"</string>
     <string name="header_location_local">"स्थानीय"</string>
+    <string name="browse_header">शीर्षकहरू</string>
+    <string name="custom_header_image_notice">शीर्षक तस्बिर सेट गरियो</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">सिर्जनाकर्ता:</string>
+    <string name="no_crop_activity_dialog_text">वालपेपर सेट गर्न Omni Gallery एप आवश्यक छ</string>
+    <string name="no_crop_activity_dialog_title">ग्यालेरी फेला परेन</string>
+    <string name="scrolling_wall_dialog_text">के तपाईं वालपेपरलाई स्क्रिनको आकारमा काट्न चाहनुहुन्छ?</string>
+    <string name="scrolling_wall_dialog_title">वालपेपर काट्नुहोस्</string>
+    <string name="wallpaper_location_remote">अनलाइन</string>
+    <string name="download_wallpaper_notice">वालपेपर डाउनलोड हुँदैछ</string>
+    <string name="download_wallpaper_failed_notice">वालपेपर डाउनलोड असफल भयो</string>
+    <string name="no_network_message">नेटवर्क जडान छैन</string>
+    <string name="download_wallpaper_list_failed_notice">वालपेपर डाइरेक्टरी लोड असफल भयो</string>
+    <string name="browse_theme_walls">थिम वालपेपरहरू</string>
+    <string name="browse_theme_header">थिम शीर्षकहरू</string>
+    <string name="pick_header">शीर्षकहरू चयन गर्नुहोस्</string>
+    <string name="sort_by_creator_menu">सिर्जनाकर्ताअनुसार क्रमबद्ध गर्नुहोस्</string>
+    <string name="sort_by_tag_menu">ट्यागअनुसार क्रमबद्ध गर्नुहोस्</string>
+    <string name="download_header_notice">शीर्षक डाउनलोड हुँदैछ</string>
+    <string name="download_header_failed_notice">शीर्षक डाउनलोड असफल भयो</string>
+    <string name="header_location_online">अनलाइन</string>
 </resources>

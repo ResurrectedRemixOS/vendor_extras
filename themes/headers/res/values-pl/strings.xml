@@ -41,4 +41,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="wallpaper_default_name">Tapeta</string>
     <string name="sort_by_default_menu">"Sortuj według nazwy"</string>
     <string name="header_location_local">"Lokalne"</string>
+    <string name="browse_theme_walls">Tapety motywu</string>
+    <string name="browse_theme_header">Nagłówki motywu</string>
+    <string name="pick_header">Wybierz nagłówki</string>
+    <string name="sort_by_creator_menu">Sortuj według twórcy</string>
+    <string name="sort_by_tag_menu">Sortuj według tagu</string>
+    <string name="download_header_notice">Pobieranie nagłówka</string>
+    <string name="download_header_failed_notice">Nie udało się pobrać nagłówka</string>
+    <string name="header_location_online">Online</string>
 </resources>

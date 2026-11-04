@@ -37,4 +37,16 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_dialog_title">"Pangkas wallpaper"</string>
     <string name="sort_by_default_menu">"Urutkan menurut nama"</string>
     <string name="header_location_local">Lokal</string>
+    <string name="custom_header_image_notice">Gambar header telah diatur</string>
+    <string name="header_creator_label">Kreator:</string>
+    <string name="no_crop_activity_dialog_text">Aplikasi Omni Gallery diperlukan untuk mengatur wallpaper</string>
+    <string name="scrolling_wall_dialog_text">Apakah Anda ingin memotong wallpaper sesuai ukuran layar?</string>
+    <string name="browse_theme_walls">Wallpaper tema</string>
+    <string name="browse_theme_header">Header tema</string>
+    <string name="pick_header">Pilih header</string>
+    <string name="sort_by_creator_menu">Urutkan berdasarkan kreator</string>
+    <string name="sort_by_tag_menu">Urutkan berdasarkan tag</string>
+    <string name="download_header_notice">Mengunduh header</string>
+    <string name="download_header_failed_notice">Gagal mengunduh header</string>
+    <string name="header_location_online">Daring</string>
 </resources>

@@ -29,4 +29,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"桌布"</string>
     <string name="sort_by_default_menu">"按名稱排序"</string>
     <string name="header_location_local">"當地"</string>
+    <string name="browse_theme_walls">主題桌布</string>
+    <string name="browse_theme_header">主題頭圖</string>
+    <string name="pick_header">選擇頭圖</string>
+    <string name="sort_by_creator_menu">按創作者排序</string>
+    <string name="sort_by_tag_menu">按標籤排序</string>
+    <string name="download_header_notice">正在下載頭圖</string>
+    <string name="download_header_failed_notice">頭圖下載失敗</string>
 </resources>

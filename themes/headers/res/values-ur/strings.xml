@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"وال پیپر"</string>
     <string name="sort_by_default_menu">"نام کے لحاظ سے ترتیب دیں"</string>
     <string name="header_location_local">"مقامی"</string>
+    <string name="browse_header">ہیڈرز</string>
+    <string name="custom_header_image_notice">ہیڈر تصویر سیٹ ہو گئی</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">تخلیق کار:</string>
+    <string name="no_crop_activity_dialog_text">وال پیپر سیٹ کرنے کے لیے Omni Gallery ایپ درکار ہے</string>
+    <string name="no_crop_activity_dialog_title">گیلری موجود نہیں</string>
+    <string name="scrolling_wall_dialog_text">کیا آپ وال پیپر کو ڈسپلے کے سائز میں کاٹنا چاہتے ہیں؟</string>
+    <string name="scrolling_wall_dialog_title">وال پیپر کاٹیں</string>
+    <string name="wallpaper_location_remote">آن لائن</string>
+    <string name="download_wallpaper_notice">وال پیپر ڈاؤن لوڈ ہو رہا ہے</string>
+    <string name="download_wallpaper_failed_notice">وال پیپر ڈاؤن لوڈ ناکام ہو گیا</string>
+    <string name="no_network_message">نیٹ ورک کنیکٹیویٹی موجود نہیں</string>
+    <string name="download_wallpaper_list_failed_notice">وال پیپر ڈائریکٹری لوڈ کرنا ناکام ہو گیا</string>
+    <string name="browse_theme_walls">تھیم وال پیپرز</string>
+    <string name="browse_theme_header">تھیم ہیڈرز</string>
+    <string name="pick_header">ہیڈرز منتخب کریں</string>
+    <string name="sort_by_creator_menu">تخلیق کار کے مطابق ترتیب دیں</string>
+    <string name="sort_by_tag_menu">ٹیگ کے مطابق ترتیب دیں</string>
+    <string name="download_header_notice">ہیڈر ڈاؤن لوڈ ہو رہا ہے</string>
+    <string name="download_header_failed_notice">ہیڈر ڈاؤن لوڈ ناکام ہو گیا</string>
+    <string name="header_location_online">آن لائن</string>
 </resources>

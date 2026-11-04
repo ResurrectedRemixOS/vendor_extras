@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"Mandhari"</string>
     <string name="sort_by_default_menu">"Panga kwa jina"</string>
     <string name="header_location_local">"Ya nchini"</string>
+    <string name="browse_header">Vichwa</string>
+    <string name="custom_header_image_notice">Picha ya kichwa imewekwa</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Muundaji:</string>
+    <string name="no_crop_activity_dialog_text">Programu ya Omni Gallery inahitajika ili kuweka mandhari</string>
+    <string name="no_crop_activity_dialog_title">Gala halipatikani</string>
+    <string name="scrolling_wall_dialog_text">Je, ungependa kukata mandhari ili ilingane na ukubwa wa skrini?</string>
+    <string name="wallpaper_location_remote">Mtandaoni</string>
+    <string name="download_wallpaper_notice">Inapakua mandhari</string>
+    <string name="download_wallpaper_failed_notice">Kupakua mandhari kumeshindikana</string>
+    <string name="no_network_message">Hakuna muunganisho wa mtandao</string>
+    <string name="download_wallpaper_list_failed_notice">Kupakia saraka ya mandhari kumeshindikana</string>
+    <string name="browse_theme_walls">Mandhari za mandhari</string>
+    <string name="browse_theme_header">Vichwa vya mandhari</string>
+    <string name="pick_header">Chagua vichwa</string>
+    <string name="sort_by_creator_menu">Panga kwa muundaji</string>
+    <string name="sort_by_tag_menu">Panga kwa lebo</string>
+    <string name="download_header_notice">Inapakua kichwa</string>
+    <string name="download_header_failed_notice">Kupakua kichwa kumeshindikana</string>
+    <string name="header_location_online">Mtandaoni</string>
 </resources>

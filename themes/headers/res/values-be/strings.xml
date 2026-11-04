@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"Шпалеры"</string>
     <string name="sort_by_default_menu">"Сартаваць па імені"</string>
     <string name="header_location_local">"Мясцовы"</string>
+    <string name="browse_header">Загалоўкі</string>
+    <string name="custom_header_image_notice">Выява загалоўка ўсталявана</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Аўтар:</string>
+    <string name="no_crop_activity_dialog_text">Для ўсталявання шпалер патрабуецца праграма Omni Gallery</string>
+    <string name="no_crop_activity_dialog_title">Галерэя адсутнічае</string>
+    <string name="scrolling_wall_dialog_text">Абрэзаць шпалеры па памеры экрана?</string>
+    <string name="scrolling_wall_dialog_title">Абрэзаць шпалеры</string>
+    <string name="wallpaper_location_remote">Анлайн</string>
+    <string name="download_wallpaper_notice">Загрузка шпалер</string>
+    <string name="download_wallpaper_failed_notice">Не ўдалося загрузіць шпалеры</string>
+    <string name="no_network_message">Няма падключэння да сеткі</string>
+    <string name="download_wallpaper_list_failed_notice">Не ўдалося загрузіць каталог шпалер</string>
+    <string name="browse_theme_walls">Шпалеры тэмы</string>
+    <string name="browse_theme_header">Загалоўкі тэмы</string>
+    <string name="pick_header">Выберыце загалоўкі</string>
+    <string name="sort_by_creator_menu">Сартаваць па аўтару</string>
+    <string name="sort_by_tag_menu">Сартаваць па тэгу</string>
+    <string name="download_header_notice">Загрузка загалоўка</string>
+    <string name="download_header_failed_notice">Не ўдалося загрузіць загалоўак</string>
+    <string name="header_location_online">Анлайн</string>
 </resources>

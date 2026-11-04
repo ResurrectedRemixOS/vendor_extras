@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"Тушкагаз"</string>
     <string name="sort_by_default_menu">"Аталышы боюнча иргөө"</string>
     <string name="header_location_local">"Жергиликтүү"</string>
+    <string name="browse_header">Баш аты</string>
+    <string name="custom_header_image_notice">Баш аты сүрөтү коюлду</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">Автор:</string>
+    <string name="no_crop_activity_dialog_text">Тушкагазды коюу үчүн Omni Gallery колдонмосу керек</string>
+    <string name="no_crop_activity_dialog_title">Галерея жок</string>
+    <string name="scrolling_wall_dialog_text">Тушкагазды экрандын өлчөмүнө кыркасызбы?</string>
+    <string name="scrolling_wall_dialog_title">Тушкагазды кыркуу</string>
+    <string name="wallpaper_location_remote">Онлайн</string>
+    <string name="download_wallpaper_notice">Тушкагаз жүктөлүп жатат</string>
+    <string name="download_wallpaper_failed_notice">Тушкагазды жүктөө ишке ашкан жок</string>
+    <string name="no_network_message">Тармак жок</string>
+    <string name="download_wallpaper_list_failed_notice">Тушкагаздардын каталогун жүктөө ишке ашкан жок</string>
+    <string name="browse_theme_walls">Теманын тушкагаздары</string>
+    <string name="browse_theme_header">Теманын баш аттары</string>
+    <string name="pick_header">Баш аттарды тандаңыз</string>
+    <string name="sort_by_creator_menu">Автор боюнча иреттөө</string>
+    <string name="sort_by_tag_menu">Белги боюнча иреттөө</string>
+    <string name="download_header_notice">Баш аты жүктөлүп жатат</string>
+    <string name="download_header_failed_notice">Баш atты жүктөө ишке ашкан жок</string>
+    <string name="header_location_online">Онлайн</string>
 </resources>

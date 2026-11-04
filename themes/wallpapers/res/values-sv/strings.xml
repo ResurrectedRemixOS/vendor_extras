@@ -19,4 +19,5 @@
   <string name="app_name">CM-bakgrunder</string>
   <string name="set_wallpaper">Ange bakgrundsbild</string>
   <string name="no_wallpaper">Ingen bakgrundsbild</string>
+    <string name="rr_app_name">RR-bakgrunder</string>
 </resources>

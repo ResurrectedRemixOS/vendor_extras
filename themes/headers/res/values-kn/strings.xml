@@ -11,4 +11,25 @@
     <string name="wallpaper_default_name">"ವಾಲ್‌ಪೇಪರ್"</string>
     <string name="sort_by_default_menu">"ಹೆಸರಿನ ಪ್ರಕಾರ ವಿಂಗಡಿಸಿ"</string>
     <string name="header_location_local">"ಸ್ಥಳೀಯ"</string>
+    <string name="browse_header">ಹೆಡರ್‌ಗಳು</string>
+    <string name="custom_header_image_notice">ಹೆಡರ್ ಚಿತ್ರ ಹೊಂದಿಸಲಾಗಿದೆ</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">ಸೃಷ್ಟಿಕರ್ತ:</string>
+    <string name="no_crop_activity_dialog_text">ವಾಲ್‌ಪೇಪರ್ ಹೊಂದಿಸಲು Omni Gallery ಆ್ಯಪ್ ಅಗತ್ಯವಿದೆ</string>
+    <string name="no_crop_activity_dialog_title">ಗ್ಯಾಲರಿ ಕಾಣೆಯಾಗಿದೆ</string>
+    <string name="scrolling_wall_dialog_text">ವಾಲ್‌ಪೇಪರ್ ಅನ್ನು ಡಿಸ್ಪ್ಲೇ ಗಾತ್ರಕ್ಕೆ ಕ್ರಾಪ್ ಮಾಡಲು ಬಯಸುವಿರಾ?</string>
+    <string name="scrolling_wall_dialog_title">ವಾಲ್‌ಪೇಪರ್ ಕ್ರಾಪ್ ಮಾಡಿ</string>
+    <string name="wallpaper_location_remote">ಆನ್‌ಲೈನ್</string>
+    <string name="download_wallpaper_notice">ವಾಲ್‌ಪೇಪರ್ ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ</string>
+    <string name="download_wallpaper_failed_notice">ವಾಲ್‌ಪೇಪರ್ ಡೌನ್‌ಲೋಡ್ ವಿಫಲವಾಗಿದೆ</string>
+    <string name="no_network_message">ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕವಿಲ್ಲ</string>
+    <string name="download_wallpaper_list_failed_notice">ವಾಲ್‌ಪೇಪರ್ ಡೈರೆಕ್ಟರಿ ಲೋಡ್ ಆಗಲಿಲ್ಲ</string>
+    <string name="browse_theme_walls">ಥೀಮ್ ವಾಲ್‌ಪೇಪರ್‌ಗಳು</string>
+    <string name="browse_theme_header">ಥೀಮ್ ಹೆಡರ್‌ಗಳು</string>
+    <string name="pick_header">ಹೆಡರ್‌ಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="sort_by_creator_menu">ಸೃಷ್ಟಿಕರ್ತರ ಪ್ರಕಾರ ವಿಂಗಡಿಸಿ</string>
+    <string name="sort_by_tag_menu">ಟ್ಯಾಗ್ ಪ್ರಕಾರ ವಿಂಗಡಿಸಿ</string>
+    <string name="download_header_notice">ಹೆಡರ್ ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ</string>
+    <string name="download_header_failed_notice">ಹೆಡರ್ ಡೌನ್‌ಲೋಡ್ ವಿಫಲವಾಗಿದೆ</string>
+    <string name="header_location_online">ಆನ್‌ಲೈನ್</string>
 </resources>

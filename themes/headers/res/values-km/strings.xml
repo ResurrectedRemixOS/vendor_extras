@@ -29,4 +29,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">"ផ្ទាំង​រូបភាព"</string>
     <string name="sort_by_default_menu">"តម្រៀប​តាម​ឈ្មោះ"</string>
     <string name="header_location_local">"ក្នុងស្រុក"</string>
+    <string name="browse_header">ផ្ទាំងក្បាល</string>
+    <string name="custom_header_image_notice">បានកំណត់រូបភាពផ្ទាំងក្បាល</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">អ្នកបង្កើត៖</string>
+    <string name="no_crop_activity_dialog_text">ត្រូវការកម្មវិធី Omni Gallery ដើម្បីកំណត់ផ្ទាំងរូបភាព</string>
+    <string name="no_crop_activity_dialog_title">រកមិនឃើញវិចិត្រសាល</string>
+    <string name="scrolling_wall_dialog_text">តើអ្នកចង់កាត់ផ្ទាំងរូបភាពឱ្យសមនឹងទំហំអេក្រង់ឬ?</string>
+    <string name="wallpaper_location_remote">អនឡាញ</string>
+    <string name="download_wallpaper_notice">កំពុងទាញយកផ្ទាំងរូបភាព</string>
+    <string name="download_wallpaper_failed_notice">ការទាញយកផ្ទាំងរូបភាពបានបរាជ័យ</string>
+    <string name="no_network_message">គ្មានការតភ្ជាប់បណ្តាញ</string>
+    <string name="download_wallpaper_list_failed_notice">ការផ្ទុកបញ្ជីផ្ទាំងរូបភាពបានបរាជ័យ</string>
+    <string name="browse_theme_walls">ផ្ទាំងរូបភាពនៃទម្រង់រចនា</string>
+    <string name="browse_theme_header">ផ្ទាំងក្បាលនៃទម្រង់រចនា</string>
+    <string name="pick_header">ជ្រើសរើសផ្ទាំងក្បាល</string>
+    <string name="sort_by_creator_menu">តម្រៀបតាមអ្នកបង្កើត</string>
+    <string name="sort_by_tag_menu">តម្រៀបតាមស្លាក</string>
+    <string name="download_header_notice">កំពុងទាញយកផ្ទាំងក្បាល</string>
+    <string name="download_header_failed_notice">ការទាញយកផ្ទាំងក្បាលបានបរាជ័យ</string>
+    <string name="header_location_online">អនឡាញ</string>
 </resources>

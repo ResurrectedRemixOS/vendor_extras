@@ -19,4 +19,5 @@
   <string name="app_name">CM darbalaukio fonai</string>
   <string name="set_wallpaper">Nustatyti darbalaukio foną</string>
   <string name="no_wallpaper">Be darbalaukio fono</string>
+    <string name="rr_app_name">RR ekrano fonai</string>
 </resources>

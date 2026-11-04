@@ -9,4 +9,27 @@
     <string name="wallpaper_default_name">"နောက်ခံ"</string>
     <string name="sort_by_default_menu">"အမည်အလိုက် စီရန်"</string>
     <string name="header_location_local">"ပြည်တွင်း"</string>
+    <string name="browse_header">ခေါင်းစီးများ</string>
+    <string name="custom_header_image_notice">ခေါင်းစီးပုံ သတ်မှတ်ပြီးပါပြီ</string>
+    <string name="omni_walls">WaterSlides</string>
+    <string name="header_creator_label">ဖန်တီးသူ:</string>
+    <string name="no_crop_activity_dialog_text">နောက်ခံ သတ်မှတ်ရန် Omni Gallery အက်ပ် လိုအပ်သည်</string>
+    <string name="no_crop_activity_dialog_title">Gallery မရှိပါ</string>
+    <string name="scrolling_wall_dialog_text">နောက်ခံကို ဖန်သားပြင် အရွယ်အစားသို့ ဖြတ်မလား?</string>
+    <string name="scrolling_wall_dialog_title">နောက်ခံကို ဖြတ်ရန်</string>
+    <string name="scrolling_wall_yes">မလုပ်ပါ</string>
+    <string name="scrolling_wall_no">လုပ်ရန်</string>
+    <string name="wallpaper_location_remote">အွန်လိုင်း</string>
+    <string name="download_wallpaper_notice">နောက်ခံ ဒေါင်းလုဒ်ဆွဲနေသည်</string>
+    <string name="download_wallpaper_failed_notice">နောက်ခံ ဒေါင်းလုဒ် မအောင်မြင်ပါ</string>
+    <string name="no_network_message">ကွန်ယက် ချိတ်ဆက်မှု မရှိပါ</string>
+    <string name="download_wallpaper_list_failed_notice">နောက်ခံ ဖိုင်တွဲ ဖွင့်မရပါ</string>
+    <string name="browse_theme_walls">အပြင်အဆင် နောက်ခံများ</string>
+    <string name="browse_theme_header">အပြင်အဆင် ခေါင်းစီးများ</string>
+    <string name="pick_header">ခေါင်းစီးများ ရွေးရန်</string>
+    <string name="sort_by_creator_menu">ဖန်တီးသူအလိုက် စီရန်</string>
+    <string name="sort_by_tag_menu">တဂ်အလိုက် စီရန်</string>
+    <string name="download_header_notice">ခေါင်းစဉ်ပုံ ဒေါင်းလုဒ်ဆွဲနေသည်</string>
+    <string name="download_header_failed_notice">ခေါင်းစဉ်ပုံ ဒေါင်းလုဒ်ဆွဲခြင်း မအောင်မြင်ပါ</string>
+    <string name="header_location_online">အွန်လိုင်း</string>
 </resources>
