@@ -63,6 +63,7 @@ PRODUCT_PACKAGES += \
     FontRrComfortaaOverlay \
     FontRrComicsansOverlay \
     FontRrCoolstoryOverlay \
+    FontRrCustomOverlay \
     FontRrExotwoOverlay \
     FontRrFifa2018Overlay \
     FontRrGooglesansOverlay \

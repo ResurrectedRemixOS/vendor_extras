@@ -1,0 +1,9 @@
+<!-- The font Remixer imported. rr-custom names no system font: the framework's FontController
+     loads /data/misc/user/0/fonts/custom.ttf for it. The other families go through the override,
+     which builds their weights from that file. -->
+<resources>
+    <string name="config_bodyFontFamily" translatable="false">rr-custom</string>
+    <string name="config_bodyFontFamilyMedium" translatable="false">sans-serif-medium</string>
+    <string name="config_headlineFontFamily" translatable="false">sans-serif</string>
+    <string name="config_headlineFontFamilyMedium" translatable="false">sans-serif-medium</string>
+</resources>
