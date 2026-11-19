@@ -14,6 +14,11 @@ PRODUCT_PACKAGES += \
     rr_look_mono \
     rr_look_neon_night
 
+# Charging animations
+PRODUCT_PACKAGES += \
+    MotoChargingAnimationOverlay \
+    NothingChargingAnimationOverlay
+
 # Signal and Wi-Fi icon styles
 PRODUCT_PACKAGES += \
     AuroraSignalOverlay \
