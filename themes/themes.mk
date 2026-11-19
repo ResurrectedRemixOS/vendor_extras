@@ -25,6 +25,10 @@ PRODUCT_PACKAGES += \
     CircleSignalOverlay \
     ClassicSignalOverlay \
     ClassicWiFiOverlay \
+    CometSignalOverlay \
+    CometWiFiOverlay \
+    CrystalSignalOverlay \
+    CrystalWiFiOverlay \
     DuoSignalOverlay \
     DuoWiFiOverlay \
     GlassSignalOverlay \
@@ -33,10 +37,14 @@ PRODUCT_PACKAGES += \
     HollowWiFiOverlay \
     LandscapeSignalOverlay \
     LandscapeWiFiOverlay \
+    LineDotSignalOverlay \
+    LineDotWiFiOverlay \
     LinearSignalOverlay \
     LinearWiFiOverlay \
     NeonSignalOverlay \
     NeonWiFiOverlay \
+    OdinSignalOverlay \
+    OdinWiFiOverlay \
     OrbitSignalOverlay \
     OrbitWiFiOverlay \
     PlumpySignalOverlay \
@@ -45,9 +53,13 @@ PRODUCT_PACKAGES += \
     PulseWiFiOverlay \
     RemixSignalOverlay \
     RemixWiFiOverlay \
+    RetroSignalOverlay \
+    RetroWiFiOverlay \
     RomanSignalOverlay \
     RoundSignalOverlay \
     RoundWiFiOverlay \
+    SeaSignalOverlay \
+    SeaWiFiOverlay \
     ShapesSignalOverlay \
     ShapesWiFiOverlay \
     SleekSignalOverlay \
