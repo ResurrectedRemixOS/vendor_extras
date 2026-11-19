@@ -14,8 +14,12 @@
   ~ limitations under the License.
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.systemui.wifibar_e" android:versionCode="1"
+    package="com.resurrection.theme.wifi.wavy"
+    android:versionCode="1"
     android:versionName="1.0">
-    <overlay android:targetPackage="android" android:category="android.theme.customization.wifi_icon" android:priority="1"/>
-    <application android:label="Wavy" android:hasCode="false"/>
+    <overlay
+        android:targetPackage="com.android.systemui"
+        android:category="android.theme.customization.wifi_icon"
+        android:priority="1" />
+    <application android:label="Wavy" android:hasCode="false" />
 </manifest>
