@@ -14,6 +14,50 @@ PRODUCT_PACKAGES += \
     rr_look_mono \
     rr_look_neon_night
 
+# Signal and Wi-Fi icon styles
+PRODUCT_PACKAGES += \
+    AuroraSignalOverlay \
+    AuroraWiFiOverlay \
+    BentoSignalOverlay \
+    BentoWiFiOverlay \
+    BlueprintSignalOverlay \
+    BlueprintWiFiOverlay \
+    CircleSignalOverlay \
+    ClassicSignalOverlay \
+    ClassicWiFiOverlay \
+    DuoSignalOverlay \
+    DuoWiFiOverlay \
+    GlassSignalOverlay \
+    GlassWiFiOverlay \
+    HollowSignalOverlay \
+    HollowWiFiOverlay \
+    LandscapeSignalOverlay \
+    LandscapeWiFiOverlay \
+    LinearSignalOverlay \
+    LinearWiFiOverlay \
+    NeonSignalOverlay \
+    NeonWiFiOverlay \
+    OrbitSignalOverlay \
+    OrbitWiFiOverlay \
+    PlumpySignalOverlay \
+    PlumpyWiFiOverlay \
+    PulseSignalOverlay \
+    PulseWiFiOverlay \
+    RemixSignalOverlay \
+    RemixWiFiOverlay \
+    RomanSignalOverlay \
+    RoundSignalOverlay \
+    RoundWiFiOverlay \
+    ShapesSignalOverlay \
+    ShapesWiFiOverlay \
+    SleekSignalOverlay \
+    SoftSignalOverlay \
+    SoftWiFiOverlay \
+    StrokeSignalOverlay \
+    StrokeWiFiOverlay \
+    WavySignalOverlay \
+    WavyWiFiOverlay
+
 PRODUCT_PACKAGE_OVERLAYS += vendor/extras/themes/overlay
 
 # UDFPS icons and animations, read by SystemUI
