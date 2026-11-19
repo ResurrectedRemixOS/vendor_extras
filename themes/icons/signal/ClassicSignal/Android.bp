@@ -4,8 +4,8 @@
 // you may not use this file except in compliance with the License.
 
 runtime_resource_overlay {
-    name: "WifiIconCompactOverlay",
+    name: "ClassicSignalOverlay",
     product_specific: true,
     sdk_version: "current",
-    theme: "WifiIconCompact",
+    theme: "ClassicSignal",
 }
