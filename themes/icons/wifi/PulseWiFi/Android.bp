@@ -1,0 +1,11 @@
+//
+// SPDX-FileCopyrightText: The Resurrected Remix Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+runtime_resource_overlay {
+    name: "PulseWiFiOverlay",
+    product_specific: true,
+    sdk_version: "current",
+    theme: "PulseWiFi",
+}
